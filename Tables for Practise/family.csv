@@ -1,0 +1,9 @@
+member_id,fname,age,parent_id
+f1,david,4,f5
+f2,carol,10,f5
+f3,michel,12,f5
+f4,johnson,36,NULL
+f5,maryam,40,f6
+f6,stewart,70,NULL
+f7,rohan,6,f4
+f8,asha,8,f4

@@ -1,0 +1,7 @@
+emp_id,emp_name,salary,dept_id,mgr_id
+e1,rahul,15000,d1,m1
+e2,manoj,15000,d1,m1
+e3,sanjay,55000,d2,m2
+e4,snehal,25000,d2,m2
+e5,neha,20000,d10,m3
+e6,priya,35000,d10,m3

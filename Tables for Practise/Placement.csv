@@ -1,0 +1,2967 @@
+roll_no,Age,Gender,branch,Internships,CGPA,Hostel,HistoryOfBacklogs,PlacedOrNot
+1,22,Male,Civil,0,6,1,0,0
+2,22,Male,"Information Technology",0,7,0,0,0
+3,21,Male,"Computer Science",0,6,0,1,0
+4,22,Male,Electrical,2,6,0,1,0
+5,22,Male,"Computer Science",1,6,0,0,0
+6,22,Male,"Electronics And Communication",1,8,1,1,1
+7,21,Male,"Computer Science",1,7,0,0,0
+8,21,Female,"Computer Science",0,7,1,1,1
+9,22,Male,Mechanical,0,8,1,0,1
+10,22,Female,"Information Technology",1,6,0,0,1
+11,21,Male,Electrical,3,7,0,0,1
+12,21,Male,Mechanical,0,8,0,0,1
+13,21,Male,"Information Technology",0,8,0,1,1
+14,22,Male,Mechanical,0,8,1,1,1
+15,22,Male,Mechanical,0,8,1,0,1
+16,21,Male,Electrical,0,6,0,0,0
+17,21,Male,"Computer Science",2,8,0,0,1
+18,22,Male,"Electronics And Communication",0,6,0,0,0
+19,21,Female,"Computer Science",0,8,1,0,1
+20,21,Male,"Computer Science",0,7,0,1,0
+21,21,Male,"Information Technology",1,7,0,0,0
+22,21,Male,"Computer Science",0,7,0,0,0
+23,21,Male,"Information Technology",1,7,0,0,0
+24,21,Female,Electrical,1,6,0,0,0
+25,22,Male,"Information Technology",0,6,0,1,0
+26,21,Male,"Computer Science",2,6,0,0,1
+27,22,Female,Civil,1,8,0,0,1
+28,22,Male,"Information Technology",1,8,0,0,1
+29,21,Male,Civil,0,8,0,0,1
+30,21,Male,Electrical,1,7,0,0,1
+31,21,Female,"Computer Science",1,6,1,0,0
+32,21,Male,"Information Technology",1,6,0,0,0
+33,21,Female,Civil,1,6,0,0,0
+34,22,Male,"Computer Science",1,7,0,0,0
+35,21,Male,"Computer Science",1,6,0,0,0
+36,22,Female,Electrical,1,8,0,1,1
+37,21,Male,"Computer Science",3,6,0,0,1
+38,21,Female,"Computer Science",2,6,1,1,0
+39,21,Male,Civil,1,7,1,0,0
+40,21,Male,"Computer Science",1,8,0,1,1
+41,22,Male,Electrical,1,7,0,0,0
+42,21,Male,Mechanical,0,6,1,1,0
+43,21,Female,"Electronics And Communication",2,8,0,0,1
+44,21,Male,Civil,0,7,0,0,0
+45,22,Male,Mechanical,0,8,1,0,1
+46,21,Male,"Electronics And Communication",2,6,1,1,0
+47,21,Female,"Information Technology",1,8,1,0,1
+48,22,Female,"Computer Science",1,7,1,0,0
+49,22,Male,Electrical,1,8,0,1,1
+50,22,Male,Civil,0,8,0,0,1
+51,22,Male,"Computer Science",2,8,0,0,1
+52,21,Male,Civil,0,6,0,0,0
+53,22,Male,"Computer Science",0,7,0,1,0
+54,21,Male,Mechanical,1,6,1,1,0
+55,21,Male,"Computer Science",1,7,0,0,0
+56,21,Male,Electrical,0,6,0,0,0
+57,22,Male,"Computer Science",0,7,0,0,0
+58,22,Male,"Computer Science",1,7,0,0,0
+59,22,Male,Civil,0,6,0,0,0
+60,22,Male,Civil,0,8,0,0,1
+61,21,Male,Civil,0,6,1,0,0
+62,21,Male,"Computer Science",1,6,0,0,0
+63,21,Male,Electrical,1,6,0,1,0
+64,22,Male,Civil,0,7,0,0,0
+65,22,Male,"Electronics And Communication",1,8,0,1,1
+66,21,Female,"Computer Science",1,7,1,0,0
+67,21,Male,"Computer Science",0,7,0,1,0
+68,21,Male,"Computer Science",2,7,0,0,1
+69,22,Male,"Electronics And Communication",1,7,0,1,0
+70,21,Male,"Computer Science",0,7,0,1,0
+71,21,Female,Mechanical,1,6,1,0,0
+72,22,Male,"Electronics And Communication",0,7,0,0,0
+73,21,Male,Civil,1,8,0,1,1
+74,22,Male,Mechanical,0,6,1,0,0
+75,21,Male,Electrical,0,8,1,0,1
+76,22,Male,"Electronics And Communication",1,8,0,0,1
+77,22,Male,Electrical,1,8,0,0,1
+78,22,Male,"Computer Science",1,8,0,0,1
+79,22,Male,"Information Technology",1,8,0,0,1
+80,22,Male,"Information Technology",1,8,0,0,1
+81,21,Female,"Information Technology",0,8,0,0,1
+82,21,Male,"Information Technology",0,6,0,0,1
+83,22,Male,"Information Technology",1,7,0,0,0
+84,22,Male,Mechanical,1,8,1,0,1
+85,22,Male,"Information Technology",0,8,0,0,1
+86,21,Male,Electrical,1,7,0,0,1
+87,21,Male,"Electronics And Communication",0,6,0,0,0
+88,21,Female,Civil,1,7,0,0,0
+89,21,Male,"Information Technology",0,8,0,1,1
+90,21,Female,"Information Technology",2,6,0,0,1
+91,21,Male,Electrical,0,7,0,0,0
+92,22,Male,"Computer Science",1,8,0,0,1
+93,21,Male,"Computer Science",1,6,0,0,1
+94,22,Male,"Computer Science",1,7,0,0,0
+95,21,Male,"Electronics And Communication",2,8,0,0,1
+96,21,Female,"Information Technology",2,7,0,0,1
+97,21,Male,"Information Technology",1,6,0,0,0
+98,21,Female,Mechanical,1,8,1,0,1
+99,28,Male,Civil,0,8,1,0,1
+100,22,Male,Civil,0,7,0,0,1
+101,21,Female,"Computer Science",1,6,1,0,0
+102,21,Male,"Computer Science",2,7,0,0,1
+103,22,Male,"Computer Science",1,8,0,0,1
+104,22,Female,"Information Technology",1,7,0,0,0
+105,22,Male,"Electronics And Communication",2,6,0,0,1
+106,22,Male,"Information Technology",1,6,0,0,0
+107,22,Female,"Computer Science",0,6,1,0,0
+108,21,Male,"Information Technology",1,8,1,0,1
+109,22,Male,"Electronics And Communication",0,8,0,1,1
+110,21,Male,"Information Technology",2,8,1,0,1
+111,22,Male,Mechanical,0,6,1,0,1
+112,22,Male,Electrical,1,6,0,1,0
+113,22,Male,Civil,0,7,1,1,0
+114,22,Male,Civil,0,8,1,0,1
+115,21,Male,Mechanical,0,8,1,0,1
+116,21,Male,Electrical,1,6,0,0,0
+117,21,Male,Electrical,1,7,1,1,1
+118,21,Male,"Information Technology",1,6,0,0,0
+119,21,Male,"Electronics And Communication",2,6,0,0,1
+120,21,Male,Electrical,1,7,0,0,1
+121,22,Female,Mechanical,1,7,1,0,0
+122,21,Male,Mechanical,1,7,1,0,0
+123,22,Female,"Information Technology",2,8,0,0,1
+124,22,Male,"Electronics And Communication",0,8,0,0,1
+125,22,Male,Civil,0,7,0,0,0
+126,21,Male,Electrical,0,6,0,0,0
+127,21,Female,"Electronics And Communication",3,6,0,0,1
+128,22,Female,Electrical,1,6,0,0,0
+129,21,Male,Mechanical,0,6,1,0,1
+130,22,Male,"Computer Science",0,8,0,0,1
+131,22,Male,"Computer Science",1,8,0,0,1
+132,22,Male,Mechanical,0,7,1,0,0
+133,21,Male,"Computer Science",3,8,0,0,1
+134,22,Male,"Electronics And Communication",1,6,1,1,0
+135,21,Female,"Information Technology",0,8,0,1,1
+136,22,Male,"Computer Science",0,7,0,1,1
+137,21,Male,"Electronics And Communication",1,7,0,1,1
+138,22,Male,"Electronics And Communication",0,6,0,0,0
+139,21,Male,"Information Technology",2,7,0,0,1
+140,22,Male,Civil,1,7,0,0,0
+141,21,Female,"Electronics And Communication",0,7,0,0,0
+142,21,Male,"Computer Science",0,7,0,0,1
+143,22,Male,"Information Technology",1,8,1,1,1
+144,22,Male,"Electronics And Communication",0,8,0,0,1
+145,22,Male,"Computer Science",0,8,0,1,1
+146,22,Female,"Computer Science",1,8,1,1,1
+147,21,Male,Electrical,1,8,0,0,1
+148,21,Male,"Information Technology",2,8,0,1,1
+149,22,Male,"Information Technology",1,6,1,0,0
+150,22,Male,Mechanical,1,8,1,0,1
+151,21,Male,"Electronics And Communication",0,6,0,0,0
+152,21,Female,"Computer Science",1,8,1,0,1
+153,21,Male,Electrical,2,6,0,0,1
+154,22,Male,"Computer Science",2,7,0,0,0
+155,22,Male,"Computer Science",0,6,0,0,1
+156,21,Male,Electrical,3,6,1,1,0
+157,22,Male,"Information Technology",1,8,0,0,1
+158,22,Male,"Electronics And Communication",1,6,0,0,0
+159,21,Female,"Electronics And Communication",3,6,0,0,1
+160,22,Male,Electrical,2,8,0,0,1
+161,22,Male,"Information Technology",0,8,0,0,1
+162,21,Male,"Computer Science",1,7,0,0,1
+163,22,Male,"Electronics And Communication",2,8,0,0,1
+164,21,Male,Civil,0,6,0,0,1
+165,22,Female,"Computer Science",1,7,1,0,0
+166,21,Male,"Electronics And Communication",0,8,0,0,1
+167,22,Female,"Information Technology",1,8,0,0,1
+168,21,Male,"Computer Science",2,6,0,0,1
+169,21,Male,Civil,0,8,0,0,1
+170,21,Male,"Information Technology",1,8,0,0,1
+171,21,Male,"Information Technology",1,8,0,0,1
+172,21,Male,"Electronics And Communication",0,8,0,0,1
+173,21,Male,Electrical,1,7,0,0,1
+174,21,Female,Electrical,1,8,0,0,1
+175,21,Male,Mechanical,0,8,1,0,1
+176,22,Male,Mechanical,0,8,1,1,1
+177,21,Male,"Computer Science",2,9,0,1,1
+178,22,Male,Civil,0,6,0,0,0
+179,21,Male,Civil,0,6,0,0,0
+180,22,Male,"Computer Science",0,8,0,0,1
+181,22,Male,"Computer Science",1,7,0,0,1
+182,22,Male,Electrical,0,7,0,1,0
+183,21,Male,"Information Technology",1,6,0,0,0
+184,21,Male,"Information Technology",0,8,0,0,1
+185,21,Male,"Information Technology",1,6,0,1,1
+186,21,Female,"Information Technology",1,8,0,0,1
+187,21,Female,Mechanical,1,7,1,0,0
+188,21,Male,"Information Technology",0,9,0,0,1
+189,21,Male,Mechanical,1,6,1,0,0
+190,22,Male,"Electronics And Communication",1,8,1,1,1
+191,21,Male,"Information Technology",1,8,1,0,1
+192,21,Male,"Computer Science",2,6,0,0,1
+193,22,Male,Mechanical,0,6,1,1,1
+194,21,Male,Civil,1,7,0,0,0
+195,22,Male,Mechanical,0,9,0,0,1
+196,22,Female,"Information Technology",0,7,0,0,1
+197,22,Male,"Information Technology",2,6,0,0,1
+198,22,Female,"Computer Science",1,6,1,0,1
+199,22,Male,"Information Technology",2,7,0,0,0
+200,21,Male,Electrical,0,6,1,0,0
+201,22,Male,"Computer Science",1,9,0,0,1
+202,21,Male,Mechanical,1,6,1,1,0
+203,21,Male,"Computer Science",3,8,0,0,1
+204,22,Male,"Information Technology",1,7,1,1,0
+205,21,Male,"Information Technology",0,8,0,0,1
+206,22,Male,"Computer Science",0,6,0,0,1
+207,21,Male,"Electronics And Communication",0,6,0,0,0
+208,22,Male,"Computer Science",2,9,0,0,1
+209,21,Male,"Computer Science",0,8,0,1,1
+210,22,Male,"Computer Science",0,8,0,1,1
+211,21,Male,Mechanical,0,8,1,1,1
+212,22,Male,"Electronics And Communication",1,7,0,1,0
+213,21,Female,"Information Technology",1,8,0,1,1
+214,21,Male,"Electronics And Communication",1,7,0,0,0
+215,21,Female,"Computer Science",1,8,1,0,1
+216,22,Male,Electrical,1,8,0,0,1
+217,22,Male,Mechanical,0,6,1,0,0
+218,22,Male,"Information Technology",0,9,0,0,1
+219,21,Male,Civil,0,7,0,0,0
+220,22,Male,"Computer Science",3,9,0,0,1
+221,21,Female,Civil,1,7,1,0,0
+222,21,Female,"Computer Science",0,8,1,1,1
+223,21,Male,"Information Technology",0,8,0,0,1
+224,21,Male,"Computer Science",1,7,0,0,0
+225,22,Male,"Information Technology",1,6,0,0,1
+226,22,Male,"Information Technology",1,9,0,0,1
+227,22,Male,Electrical,1,7,0,0,0
+228,21,Male,"Electronics And Communication",0,8,0,1,1
+229,21,Male,Civil,0,8,0,0,1
+230,21,Male,"Information Technology",2,6,1,0,1
+231,21,Male,Mechanical,0,9,1,0,1
+232,21,Male,"Information Technology",0,6,0,1,1
+233,22,Male,Mechanical,0,8,1,1,1
+234,22,Female,Mechanical,1,7,1,0,0
+235,21,Female,"Electronics And Communication",2,7,0,0,1
+236,21,Female,"Information Technology",1,7,0,1,1
+237,21,Male,"Information Technology",1,8,1,0,1
+238,22,Female,Mechanical,1,8,1,0,1
+239,22,Female,"Information Technology",1,6,0,0,1
+240,22,Male,Electrical,0,6,0,0,0
+241,22,Male,"Information Technology",0,8,0,0,1
+242,21,Male,Mechanical,0,6,1,1,1
+243,21,Male,Mechanical,2,6,1,0,1
+244,21,Male,"Computer Science",1,8,0,0,1
+245,21,Male,Civil,0,7,1,0,1
+246,22,Male,Mechanical,1,6,1,0,0
+247,22,Male,Mechanical,0,7,1,0,0
+248,21,Male,Civil,0,9,0,0,1
+249,22,Male,"Electronics And Communication",0,8,0,0,1
+250,21,Male,"Electronics And Communication",1,7,0,0,1
+251,22,Male,Civil,0,6,1,0,0
+252,21,Male,"Computer Science",1,9,0,0,1
+253,21,Male,"Electronics And Communication",1,6,1,1,1
+254,22,Male,"Information Technology",0,6,0,1,1
+255,22,Male,"Information Technology",0,6,0,0,1
+256,22,Male,Mechanical,0,8,1,0,1
+257,21,Male,Mechanical,2,6,1,0,0
+258,22,Male,Civil,1,8,0,0,1
+259,21,Male,"Information Technology",0,8,0,0,1
+260,22,Male,"Computer Science",0,8,0,0,1
+261,21,Male,Electrical,0,7,0,0,0
+262,21,Male,Mechanical,0,8,1,0,1
+263,21,Male,Civil,0,7,0,0,0
+264,22,Male,"Electronics And Communication",1,7,0,0,0
+265,21,Male,"Electronics And Communication",2,7,0,0,1
+266,22,Male,"Information Technology",0,7,0,0,0
+267,22,Female,"Information Technology",1,8,0,0,1
+268,21,Male,"Computer Science",0,8,0,0,1
+269,22,Female,Electrical,1,6,0,1,0
+270,21,Male,"Computer Science",0,6,0,0,0
+271,21,Male,Mechanical,0,7,1,0,0
+272,22,Male,"Electronics And Communication",0,7,0,0,0
+273,22,Male,"Information Technology",1,7,1,0,0
+274,22,Male,"Computer Science",0,7,0,0,0
+275,22,Male,"Electronics And Communication",1,7,0,0,0
+276,22,Male,"Computer Science",0,7,0,1,0
+277,22,Male,Civil,1,6,1,0,0
+278,21,Male,"Information Technology",1,8,0,0,1
+279,22,Female,Civil,1,6,1,0,0
+280,22,Female,"Computer Science",2,6,1,1,0
+281,22,Male,Electrical,1,7,0,0,0
+282,22,Male,Mechanical,1,7,0,0,0
+283,22,Male,"Electronics And Communication",0,7,0,0,1
+284,22,Male,Mechanical,0,6,1,0,1
+285,21,Male,Civil,1,8,0,1,1
+286,21,Male,Civil,0,8,0,0,1
+287,21,Male,"Electronics And Communication",1,8,1,1,1
+288,22,Male,"Information Technology",1,6,0,0,1
+289,21,Male,Civil,0,8,0,0,1
+290,22,Male,"Computer Science",0,6,0,0,0
+291,21,Male,Electrical,1,6,0,0,1
+292,22,Male,"Information Technology",0,7,0,0,0
+293,22,Male,"Computer Science",2,6,0,0,1
+294,22,Female,"Information Technology",2,7,0,0,0
+295,22,Male,"Computer Science",2,7,0,0,1
+296,21,Male,"Electronics And Communication",1,6,0,0,0
+297,22,Male,Mechanical,1,7,1,1,0
+298,22,Male,"Electronics And Communication",1,7,1,1,1
+299,22,Male,"Electronics And Communication",0,6,0,0,0
+300,21,Male,Civil,2,6,1,0,1
+301,22,Male,"Computer Science",2,7,0,0,0
+302,21,Male,"Information Technology",2,7,0,0,1
+303,22,Male,"Computer Science",1,8,0,0,1
+304,22,Male,"Electronics And Communication",0,6,0,0,1
+305,22,Female,Electrical,1,7,1,1,0
+306,22,Male,Civil,0,6,0,0,0
+307,21,Male,"Computer Science",2,7,0,0,0
+308,21,Male,"Computer Science",0,7,0,0,1
+309,21,Male,Civil,1,6,0,0,0
+310,22,Male,Civil,1,6,0,0,1
+311,22,Male,"Information Technology",0,8,0,0,1
+312,22,Male,Mechanical,0,7,1,1,0
+313,22,Male,Civil,0,6,0,0,0
+314,21,Male,"Electronics And Communication",0,7,0,0,0
+315,22,Female,"Information Technology",0,7,0,0,0
+316,22,Male,Mechanical,2,7,1,0,1
+317,22,Male,Electrical,0,7,0,0,0
+318,21,Male,"Information Technology",0,7,0,0,1
+319,21,Male,Mechanical,0,7,0,0,0
+320,22,Male,Mechanical,0,7,1,0,1
+321,21,Male,"Computer Science",1,7,0,0,0
+322,22,Male,"Electronics And Communication",1,8,0,0,1
+323,23,Male,"Computer Science",0,7,0,0,1
+324,21,Male,"Computer Science",0,7,0,0,0
+325,22,Female,"Information Technology",0,6,0,0,0
+326,22,Male,"Computer Science",0,6,0,1,0
+327,23,Male,Civil,0,6,0,0,1
+328,22,Male,Electrical,2,8,0,1,1
+329,23,Male,Mechanical,1,5,0,0,0
+330,21,Male,Electrical,0,8,0,0,1
+331,22,Male,"Information Technology",0,6,0,1,1
+332,24,Male,"Information Technology",2,6,0,0,1
+333,21,Male,Mechanical,0,7,1,0,0
+334,22,Female,"Computer Science",1,6,1,0,1
+335,23,Male,Electrical,0,5,1,0,0
+336,22,Male,"Computer Science",1,7,0,0,1
+337,21,Male,"Computer Science",1,6,0,0,0
+338,21,Male,Electrical,0,8,0,0,1
+339,21,Male,Electrical,0,6,0,0,1
+340,22,Male,"Computer Science",0,7,0,0,0
+341,23,Male,"Information Technology",1,6,0,0,0
+342,21,Male,"Computer Science",1,7,0,0,1
+343,22,Male,Civil,0,6,0,0,0
+344,22,Female,Civil,1,8,0,0,1
+345,24,Female,"Information Technology",0,6,0,0,1
+346,22,Female,"Information Technology",1,7,0,0,0
+347,24,Male,"Information Technology",1,7,0,0,1
+348,21,Female,"Information Technology",2,8,0,1,1
+349,24,Male,Civil,1,7,0,1,1
+350,22,Male,"Information Technology",2,7,0,1,1
+351,21,Male,"Computer Science",1,8,0,0,1
+352,23,Male,"Information Technology",1,7,0,0,1
+353,22,Female,"Computer Science",1,8,1,0,1
+354,22,Male,"Information Technology",0,8,0,0,1
+355,22,Male,Civil,0,6,0,0,1
+356,21,Male,"Information Technology",3,8,1,0,1
+357,21,Female,"Electronics And Communication",0,6,0,0,0
+358,23,Male,"Information Technology",1,6,0,0,1
+359,22,Female,"Electronics And Communication",3,8,1,1,1
+360,22,Male,Civil,2,6,1,0,1
+361,24,Male,"Electronics And Communication",1,6,0,1,1
+362,21,Male,"Electronics And Communication",2,8,0,0,1
+363,22,Male,Mechanical,0,6,1,0,1
+364,24,Male,Electrical,0,7,0,0,0
+365,21,Male,"Information Technology",0,7,0,1,1
+366,21,Male,Mechanical,0,7,1,0,0
+367,22,Male,Civil,0,7,0,0,0
+368,23,Male,"Information Technology",1,6,0,0,0
+369,21,Male,Electrical,0,7,0,0,0
+370,22,Female,"Information Technology",0,6,0,0,1
+371,24,Male,"Computer Science",0,6,0,0,1
+372,22,Male,Mechanical,0,8,1,0,1
+373,22,Male,Electrical,1,8,0,0,1
+374,23,Male,Electrical,0,6,0,0,0
+375,21,Male,Civil,0,6,0,0,0
+376,23,Male,"Information Technology",1,7,1,0,1
+377,21,Male,"Computer Science",1,8,0,0,1
+378,22,Male,"Information Technology",0,8,0,0,1
+379,23,Male,"Information Technology",1,7,1,0,1
+380,21,Male,"Information Technology",0,7,0,0,0
+381,24,Male,"Information Technology",3,5,0,1,1
+382,21,Male,Mechanical,2,6,1,0,1
+383,23,Male,Mechanical,0,6,1,0,1
+384,21,Female,"Computer Science",0,6,1,0,0
+385,22,Male,Mechanical,0,8,1,0,1
+386,23,Female,"Information Technology",2,6,0,0,1
+387,21,Male,"Computer Science",1,6,0,0,1
+388,21,Female,"Computer Science",1,8,1,0,1
+389,23,Male,"Electronics And Communication",1,7,0,0,0
+390,21,Male,"Computer Science",1,7,0,0,0
+391,21,Male,"Computer Science",0,8,0,0,1
+392,22,Male,"Computer Science",1,8,0,0,1
+393,21,Male,Mechanical,0,7,0,1,1
+394,23,Male,"Information Technology",1,5,0,0,1
+395,22,Male,Electrical,0,8,0,1,1
+396,21,Male,"Information Technology",2,8,0,0,1
+397,21,Male,"Computer Science",2,8,0,0,1
+398,23,Male,"Information Technology",1,7,0,0,1
+399,21,Male,Civil,1,8,0,0,1
+400,22,Male,"Information Technology",1,7,0,0,0
+401,22,Male,Civil,0,8,1,0,1
+402,23,Male,Mechanical,2,7,1,0,1
+403,22,Female,"Computer Science",1,7,1,0,0
+404,22,Female,Civil,1,6,0,0,0
+405,21,Male,Mechanical,1,6,1,0,0
+406,24,Male,"Information Technology",1,5,0,0,0
+407,21,Male,"Computer Science",0,8,0,0,1
+408,22,Male,"Computer Science",0,8,0,0,1
+409,24,Male,"Information Technology",1,7,0,0,0
+410,21,Male,"Computer Science",1,8,0,0,1
+411,24,Male,"Computer Science",2,7,0,0,1
+412,21,Male,"Computer Science",0,8,0,1,1
+413,21,Male,"Electronics And Communication",0,6,0,0,0
+414,24,Male,"Electronics And Communication",0,5,0,0,0
+415,21,Male,Mechanical,2,6,1,0,1
+416,22,Male,"Electronics And Communication",1,6,1,1,0
+417,21,Male,Electrical,0,7,0,0,0
+418,24,Male,"Information Technology",1,7,0,0,1
+419,21,Male,Electrical,1,8,0,0,1
+420,22,Male,"Information Technology",0,8,0,0,1
+421,21,Female,"Information Technology",0,7,0,0,0
+422,23,Male,Mechanical,0,6,1,1,1
+423,25,Male,"Computer Science",0,7,0,0,0
+424,21,Male,"Computer Science",1,6,0,0,0
+425,21,Female,"Computer Science",1,8,1,0,1
+426,23,Male,"Computer Science",0,6,0,0,0
+427,26,Male,"Electronics And Communication",2,6,0,0,1
+428,21,Male,"Computer Science",1,8,0,0,1
+429,24,Female,Electrical,1,8,0,1,1
+430,21,Male,"Electronics And Communication",1,6,0,0,0
+431,22,Female,Electrical,0,6,0,0,1
+432,25,Male,"Computer Science",2,6,0,0,1
+433,22,Male,Mechanical,0,8,1,0,1
+434,22,Male,"Electronics And Communication",0,7,0,0,0
+435,24,Female,"Electronics And Communication",0,6,0,0,1
+436,22,Male,"Electronics And Communication",1,8,0,0,1
+437,21,Male,"Information Technology",0,8,0,0,1
+438,25,Male,"Computer Science",1,8,0,0,1
+439,23,Female,Mechanical,1,7,1,0,0
+440,22,Male,Mechanical,0,8,1,1,1
+441,21,Male,"Computer Science",1,6,0,0,0
+442,22,Male,Mechanical,0,7,1,1,0
+443,24,Male,"Computer Science",1,6,0,0,1
+444,21,Male,Civil,0,7,0,0,0
+445,21,Male,"Electronics And Communication",0,8,0,0,1
+446,23,Male,Mechanical,1,6,1,1,1
+447,22,Male,"Electronics And Communication",1,7,0,1,0
+448,21,Male,"Information Technology",1,6,0,0,0
+449,24,Male,"Computer Science",0,6,0,0,1
+450,22,Male,Electrical,1,7,0,0,0
+451,23,Male,"Electronics And Communication",0,9,0,0,1
+452,24,Male,Mechanical,0,6,0,0,1
+453,22,Male,Electrical,0,8,0,0,1
+454,24,Male,Electrical,1,7,0,0,1
+455,24,Male,"Information Technology",0,5,0,0,1
+456,21,Male,"Information Technology",1,8,0,0,1
+457,25,Male,Civil,0,9,1,0,1
+458,22,Male,Mechanical,2,7,1,0,0
+459,21,Male,Civil,0,6,1,1,0
+460,22,Female,"Computer Science",2,7,1,0,1
+461,22,Male,Mechanical,1,6,1,0,0
+462,22,Male,"Electronics And Communication",0,7,0,0,0
+463,22,Male,"Electronics And Communication",1,7,0,0,0
+464,23,Male,Electrical,0,5,0,0,0
+465,22,Male,Mechanical,1,7,1,0,0
+466,25,Male,"Computer Science",1,8,0,0,1
+467,24,Male,Electrical,0,5,1,0,0
+468,22,Female,Mechanical,1,8,0,0,1
+469,26,Female,"Information Technology",1,6,0,0,1
+470,21,Male,"Computer Science",0,7,0,1,0
+471,23,Male,"Computer Science",1,5,0,0,1
+472,26,Male,"Information Technology",1,6,1,0,1
+473,21,Male,"Electronics And Communication",0,8,0,0,1
+474,23,Male,"Electronics And Communication",0,7,0,0,1
+475,25,Male,Electrical,0,8,0,0,1
+476,21,Male,"Electronics And Communication",1,7,0,1,1
+477,21,Male,Mechanical,1,7,0,0,0
+478,24,Male,"Information Technology",3,7,0,0,1
+479,26,Male,"Information Technology",0,8,0,0,1
+480,22,Male,"Information Technology",0,7,0,0,0
+481,24,Male,"Computer Science",2,5,0,0,1
+482,24,Male,"Information Technology",0,8,0,0,1
+483,21,Male,"Computer Science",2,7,0,0,1
+484,24,Male,"Computer Science",2,5,0,0,1
+485,25,Male,"Computer Science",1,8,0,0,1
+486,23,Male,Civil,0,7,1,0,1
+487,23,Male,"Computer Science",1,6,0,0,1
+488,22,Male,"Information Technology",0,8,0,0,1
+489,24,Male,"Information Technology",1,6,0,0,1
+490,22,Male,Civil,1,8,0,0,1
+491,21,Male,"Information Technology",0,8,0,0,1
+492,23,Male,Civil,0,7,0,0,0
+493,23,Male,Mechanical,0,5,1,1,0
+494,22,Male,"Electronics And Communication",0,8,0,0,1
+495,22,Female,Electrical,1,8,0,1,1
+496,24,Male,"Electronics And Communication",1,9,0,0,1
+497,23,Male,Electrical,0,6,0,0,0
+498,22,Male,Mechanical,0,7,1,0,0
+499,22,Male,"Information Technology",1,6,0,0,1
+500,24,Male,"Computer Science",1,7,0,0,1
+501,22,Male,"Information Technology",1,7,0,0,0
+502,25,Male,"Computer Science",0,8,0,0,1
+503,23,Male,Electrical,0,5,0,0,0
+504,22,Male,"Computer Science",1,6,0,0,0
+505,24,Male,"Computer Science",0,7,0,1,1
+506,24,Female,"Information Technology",0,5,0,0,0
+507,21,Male,"Computer Science",1,6,0,0,0
+508,24,Male,Mechanical,2,8,1,0,1
+509,23,Male,"Computer Science",1,5,0,0,1
+510,23,Male,Mechanical,1,8,1,0,1
+511,22,Female,Civil,1,6,0,0,0
+512,23,Female,"Electronics And Communication",2,6,0,0,0
+513,22,Male,Mechanical,0,8,1,1,1
+514,26,Male,"Information Technology",1,8,0,0,1
+515,21,Female,Civil,1,8,0,0,1
+516,21,Male,Mechanical,0,6,1,0,1
+517,23,Female,Civil,1,7,0,1,0
+518,24,Male,Civil,0,7,0,0,1
+519,22,Female,"Computer Science",1,7,1,0,0
+520,21,Male,"Electronics And Communication",1,8,0,0,1
+521,26,Male,"Computer Science",1,9,0,0,1
+522,24,Male,"Electronics And Communication",2,6,0,0,1
+523,21,Male,Mechanical,1,8,1,0,1
+524,21,Male,Civil,0,7,0,0,0
+525,26,Male,Electrical,2,8,1,0,1
+526,23,Male,"Information Technology",0,5,0,0,0
+527,30,Male,"Computer Science",1,8,0,0,1
+528,26,Male,Electrical,0,9,0,1,1
+529,22,Male,"Information Technology",0,8,0,1,1
+530,26,Male,Civil,0,6,0,0,1
+531,22,Female,"Computer Science",1,8,1,0,1
+532,21,Male,"Information Technology",1,7,0,1,0
+533,24,Male,Mechanical,0,9,0,1,1
+534,22,Female,"Information Technology",1,7,0,0,1
+535,22,Female,"Electronics And Communication",0,7,0,0,0
+536,24,Male,"Computer Science",1,7,0,0,1
+537,24,Male,"Computer Science",2,6,0,0,1
+538,21,Male,Mechanical,1,6,1,0,0
+539,22,Male,"Information Technology",1,8,1,0,1
+540,23,Male,Electrical,0,8,0,0,1
+541,23,Male,"Computer Science",1,6,0,0,0
+542,21,Male,Mechanical,0,7,1,0,1
+543,22,Male,Civil,1,7,0,0,0
+544,26,Female,Mechanical,1,7,1,0,0
+545,24,Male,"Computer Science",0,7,0,1,1
+546,21,Male,"Electronics And Communication",0,8,0,0,1
+547,22,Male,Electrical,1,6,1,1,0
+548,23,Male,"Information Technology",1,7,0,0,0
+549,22,Male,"Electronics And Communication",0,7,0,0,1
+550,22,Male,"Computer Science",0,6,0,0,1
+551,21,Female,Civil,1,7,0,1,0
+552,24,Male,Mechanical,0,8,0,0,1
+553,22,Male,Mechanical,0,5,1,0,0
+554,22,Male,Electrical,0,6,0,1,0
+555,22,Male,"Computer Science",1,5,0,0,0
+556,21,Male,"Information Technology",2,8,0,0,1
+557,26,Male,Civil,0,9,0,0,1
+558,21,Male,"Computer Science",1,6,0,0,1
+559,22,Male,Electrical,0,8,0,0,1
+560,25,Male,Electrical,0,7,0,0,0
+561,21,Male,"Computer Science",0,6,0,0,0
+562,21,Male,Civil,3,6,1,0,1
+563,21,Male,"Electronics And Communication",1,7,0,0,0
+564,23,Male,Mechanical,0,9,1,1,1
+565,22,Male,Electrical,1,7,0,0,0
+566,21,Male,"Computer Science",0,6,0,1,1
+567,24,Female,"Computer Science",1,8,1,0,1
+568,21,Male,"Information Technology",0,8,0,1,1
+569,21,Male,Electrical,0,5,0,0,0
+570,23,Male,"Information Technology",1,8,0,0,1
+571,21,Male,"Computer Science",1,7,0,0,0
+572,21,Female,"Information Technology",1,6,0,0,0
+573,23,Male,Mechanical,0,7,1,0,0
+574,22,Male,Mechanical,0,7,1,0,1
+575,22,Male,Electrical,1,7,0,1,0
+576,22,Male,"Computer Science",1,5,0,0,0
+577,22,Male,"Electronics And Communication",0,7,0,0,0
+578,26,Male,"Computer Science",3,7,0,0,1
+579,22,Male,"Computer Science",1,5,0,0,0
+580,21,Male,"Computer Science",1,8,0,0,1
+581,24,Male,"Information Technology",1,6,0,0,1
+582,21,Male,Civil,1,6,0,0,1
+583,22,Male,"Electronics And Communication",0,8,0,0,1
+584,26,Male,Electrical,1,8,0,0,1
+585,21,Female,"Information Technology",2,5,0,0,0
+586,23,Male,"Computer Science",1,6,0,0,1
+587,21,Male,"Information Technology",1,6,0,0,1
+588,22,Male,Electrical,0,8,0,0,1
+589,23,Male,Civil,1,7,0,0,0
+590,22,Male,Civil,0,6,0,0,0
+591,22,Male,Electrical,1,7,0,0,0
+592,26,Male,"Information Technology",1,7,0,0,1
+593,22,Male,Civil,0,7,0,1,0
+594,21,Male,"Computer Science",1,7,0,0,0
+595,26,Male,Civil,0,7,0,0,0
+596,21,Male,"Computer Science",2,7,0,0,1
+597,21,Male,"Computer Science",0,8,0,1,1
+598,21,Male,"Information Technology",0,7,0,0,1
+599,24,Male,"Computer Science",1,7,0,0,1
+600,21,Male,"Computer Science",0,7,0,0,0
+601,21,Male,"Information Technology",1,7,0,1,0
+602,21,Male,"Electronics And Communication",0,7,0,0,1
+603,23,Male,"Information Technology",0,8,0,0,1
+604,22,Male,Electrical,0,7,0,1,0
+605,22,Male,"Electronics And Communication",0,7,0,0,0
+606,26,Female,"Information Technology",1,6,0,1,1
+607,23,Male,"Electronics And Communication",1,6,1,1,0
+608,22,Male,"Computer Science",1,6,0,0,0
+609,22,Female,"Information Technology",1,7,1,0,0
+610,24,Male,Civil,0,7,0,0,0
+611,21,Male,"Computer Science",0,8,0,1,1
+612,22,Male,Electrical,1,6,0,0,1
+613,24,Male,"Computer Science",1,6,0,0,1
+614,21,Female,Electrical,0,6,0,0,0
+615,21,Female,Mechanical,1,5,1,0,0
+616,25,Male,"Information Technology",1,6,0,0,1
+617,22,Male,"Computer Science",2,6,0,0,1
+618,21,Male,"Information Technology",0,6,0,0,0
+619,22,Female,"Information Technology",1,6,1,0,0
+620,25,Male,"Computer Science",0,8,0,0,1
+621,22,Male,"Electronics And Communication",0,8,0,0,1
+622,22,Male,"Computer Science",2,8,0,0,1
+623,22,Male,"Computer Science",2,6,0,0,1
+624,26,Male,Civil,0,8,1,0,1
+625,21,Male,Electrical,0,7,0,0,0
+626,21,Female,"Computer Science",1,7,1,0,0
+627,21,Male,"Electronics And Communication",1,6,0,1,0
+628,24,Male,Mechanical,0,6,1,0,1
+629,22,Male,"Information Technology",1,6,0,0,0
+630,22,Male,"Information Technology",0,6,0,0,0
+631,22,Male,Civil,0,5,0,0,0
+632,26,Female,Electrical,1,8,0,0,1
+633,22,Male,"Information Technology",0,6,0,0,0
+634,21,Male,"Computer Science",0,7,0,0,0
+635,21,Male,Electrical,2,5,0,1,0
+636,25,Male,"Information Technology",1,8,0,0,1
+637,22,Male,Civil,1,6,1,0,0
+638,22,Female,"Information Technology",0,8,0,0,1
+639,22,Male,Civil,1,7,0,0,0
+640,22,Male,"Computer Science",0,6,0,0,1
+641,22,Male,Mechanical,0,7,0,0,0
+642,21,Female,"Computer Science",1,7,1,0,0
+643,21,Male,Mechanical,0,8,1,0,1
+644,21,Male,"Computer Science",1,6,0,0,0
+645,21,Female,"Information Technology",0,6,0,0,0
+646,22,Female,"Electronics And Communication",1,5,1,0,0
+647,21,Male,Mechanical,1,6,1,1,0
+648,21,Male,"Information Technology",0,6,0,0,1
+649,21,Female,"Information Technology",0,6,0,0,0
+650,22,Male,"Computer Science",0,7,0,1,0
+651,22,Male,Electrical,1,6,0,0,0
+652,22,Male,"Electronics And Communication",1,7,0,0,0
+653,22,Male,"Computer Science",0,5,0,0,0
+654,21,Male,"Information Technology",0,6,0,0,0
+655,21,Male,"Computer Science",0,7,0,0,0
+656,22,Male,"Information Technology",1,6,0,0,1
+657,21,Male,Civil,0,7,1,0,0
+658,22,Male,"Information Technology",0,8,0,0,1
+659,22,Female,"Computer Science",1,6,1,0,1
+660,22,Male,Electrical,1,8,0,0,1
+661,21,Male,"Computer Science",0,6,0,0,0
+662,22,Male,"Electronics And Communication",1,8,0,0,1
+663,22,Male,"Computer Science",0,6,0,0,0
+664,22,Male,"Computer Science",0,5,0,0,0
+665,21,Male,"Information Technology",1,6,1,0,0
+666,21,Female,"Computer Science",1,6,1,0,1
+667,21,Male,"Information Technology",0,7,0,0,0
+668,22,Male,"Computer Science",1,6,0,0,0
+669,21,Male,Civil,1,8,0,0,1
+670,22,Female,"Electronics And Communication",1,6,0,1,0
+671,21,Female,"Information Technology",1,6,0,0,1
+672,21,Male,"Computer Science",1,7,0,0,0
+673,21,Male,Electrical,0,8,0,0,1
+674,22,Male,Civil,0,7,1,0,0
+675,21,Male,"Information Technology",0,6,0,0,0
+676,21,Male,"Computer Science",2,7,0,1,0
+677,21,Male,Mechanical,0,7,1,0,0
+678,22,Male,Mechanical,0,7,1,0,0
+679,21,Male,"Computer Science",1,8,0,0,1
+680,22,Female,"Electronics And Communication",0,8,0,0,1
+681,21,Male,"Computer Science",0,5,0,0,0
+682,22,Female,"Computer Science",2,8,1,0,1
+683,22,Male,Mechanical,1,6,1,0,0
+684,21,Male,"Computer Science",1,7,0,0,0
+685,21,Male,"Information Technology",0,5,0,1,0
+686,22,Male,"Computer Science",1,8,0,0,1
+687,22,Female,"Electronics And Communication",0,7,0,0,0
+688,22,Male,"Computer Science",1,6,0,0,0
+689,22,Female,"Computer Science",1,5,1,0,0
+690,22,Male,"Computer Science",1,8,0,0,1
+691,22,Female,"Information Technology",0,7,0,1,0
+692,21,Male,"Electronics And Communication",2,6,1,1,0
+693,21,Male,"Information Technology",0,7,0,0,1
+694,22,Male,Civil,0,6,0,0,0
+695,21,Male,"Information Technology",1,5,1,1,0
+696,21,Female,"Electronics And Communication",0,6,0,0,0
+697,22,Male,Mechanical,0,8,1,0,1
+698,21,Male,Electrical,1,6,0,0,0
+699,21,Male,"Electronics And Communication",0,8,0,0,1
+700,22,Male,"Computer Science",1,6,0,0,1
+701,22,Male,"Computer Science",1,6,0,0,0
+702,21,Male,"Computer Science",0,7,0,1,0
+703,22,Male,Electrical,0,8,0,0,1
+704,21,Male,Mechanical,0,6,1,0,0
+705,21,Male,"Electronics And Communication",1,7,0,0,1
+706,22,Female,"Computer Science",2,7,1,0,0
+707,21,Male,"Information Technology",1,8,0,0,1
+708,21,Male,"Information Technology",1,8,0,1,1
+709,21,Male,"Computer Science",0,8,0,0,1
+710,21,Male,"Electronics And Communication",1,8,1,1,1
+711,21,Male,"Electronics And Communication",0,7,0,0,1
+712,21,Male,"Computer Science",2,7,0,0,1
+713,21,Male,"Electronics And Communication",2,8,0,0,1
+714,22,Male,"Information Technology",2,6,0,0,1
+715,22,Male,"Computer Science",1,6,0,0,0
+716,21,Male,Electrical,1,7,0,1,1
+717,21,Female,"Information Technology",2,6,1,0,1
+718,21,Female,Mechanical,1,7,0,0,0
+719,21,Male,"Electronics And Communication",1,7,0,0,0
+720,22,Male,Electrical,0,7,1,0,0
+721,21,Female,"Electronics And Communication",2,7,0,0,1
+722,21,Female,"Computer Science",1,7,1,0,0
+723,21,Female,"Information Technology",2,8,0,0,1
+724,21,Male,"Information Technology",0,6,0,1,0
+725,21,Male,Mechanical,0,8,1,0,1
+726,22,Male,"Computer Science",1,6,0,0,0
+727,22,Male,Mechanical,0,8,1,0,1
+728,22,Male,Electrical,0,6,0,0,0
+729,22,Male,Mechanical,0,8,1,0,1
+730,21,Male,"Computer Science",1,8,0,0,1
+731,22,Male,"Information Technology",1,6,0,0,0
+732,22,Male,Mechanical,1,6,0,0,0
+733,22,Male,Civil,0,6,1,1,0
+734,21,Female,Electrical,0,7,0,0,0
+735,21,Male,"Electronics And Communication",1,6,0,1,0
+736,21,Male,"Information Technology",0,6,0,0,0
+737,21,Female,"Information Technology",1,5,1,0,0
+738,21,Female,"Computer Science",0,6,1,1,0
+739,21,Female,"Electronics And Communication",1,8,1,1,1
+740,22,Male,"Information Technology",1,5,0,0,0
+741,21,Male,"Electronics And Communication",0,7,0,0,1
+742,22,Female,"Information Technology",1,8,0,0,1
+743,21,Male,Mechanical,1,5,1,1,0
+744,22,Male,"Computer Science",1,6,0,0,1
+745,22,Male,Mechanical,1,8,1,0,1
+746,21,Male,"Electronics And Communication",0,8,0,0,1
+747,22,Male,Civil,0,8,1,0,1
+748,22,Female,"Information Technology",0,8,0,0,1
+749,22,Male,Civil,0,6,0,0,0
+750,21,Male,"Information Technology",2,6,1,0,1
+751,22,Male,"Information Technology",1,7,0,0,0
+752,22,Male,"Computer Science",1,8,0,0,1
+753,21,Male,"Computer Science",2,5,0,1,0
+754,22,Male,"Computer Science",1,7,0,0,1
+755,21,Male,"Information Technology",2,6,1,0,1
+756,22,Male,"Electronics And Communication",1,8,0,0,1
+757,22,Male,Electrical,0,5,0,0,0
+758,21,Male,"Computer Science",2,8,0,0,1
+759,22,Male,"Computer Science",2,8,0,1,1
+760,21,Male,"Information Technology",0,5,0,1,0
+761,22,Female,Electrical,0,8,0,0,1
+762,22,Male,"Electronics And Communication",2,7,0,1,0
+763,22,Male,"Information Technology",1,7,1,0,1
+764,21,Male,Electrical,0,7,0,1,0
+765,22,Female,"Information Technology",2,7,1,0,1
+766,22,Female,"Computer Science",0,8,1,0,1
+767,21,Male,"Electronics And Communication",1,6,1,1,0
+768,22,Male,Mechanical,1,8,1,0,1
+769,21,Male,"Computer Science",2,7,0,0,1
+770,22,Male,Electrical,0,7,0,0,0
+771,22,Male,"Computer Science",1,6,0,0,0
+772,22,Male,Electrical,0,7,1,0,0
+773,21,Male,"Electronics And Communication",0,8,0,1,1
+774,22,Male,Mechanical,0,6,1,0,0
+775,22,Male,"Electronics And Communication",1,6,1,1,0
+776,22,Female,"Information Technology",0,7,0,0,1
+777,22,Male,"Computer Science",2,6,0,0,1
+778,21,Male,"Computer Science",0,7,0,0,1
+779,21,Male,Electrical,0,6,0,0,0
+780,21,Male,"Computer Science",1,7,0,0,1
+781,22,Male,Electrical,1,6,0,0,0
+782,21,Male,"Information Technology",2,8,0,0,1
+783,22,Male,Civil,1,6,0,0,0
+784,21,Male,"Computer Science",2,7,0,0,1
+785,21,Female,"Information Technology",0,6,0,0,1
+786,22,Female,"Information Technology",1,7,1,0,1
+787,22,Male,"Computer Science",1,8,0,0,1
+788,22,Male,"Computer Science",2,7,0,0,1
+789,21,Male,Electrical,1,8,0,0,1
+790,21,Male,Mechanical,0,8,1,0,1
+791,21,Male,"Electronics And Communication",0,6,0,0,0
+792,21,Male,"Information Technology",2,7,0,1,0
+793,22,Male,Civil,0,6,0,0,0
+794,22,Male,"Information Technology",0,8,0,1,1
+795,22,Male,"Computer Science",1,8,0,1,1
+796,22,Male,"Computer Science",1,6,0,0,1
+797,22,Male,"Electronics And Communication",2,8,0,0,1
+798,21,Female,"Computer Science",1,6,1,1,0
+799,21,Male,"Computer Science",1,7,0,0,0
+800,22,Male,"Computer Science",1,7,0,0,1
+801,22,Male,Mechanical,1,7,1,0,0
+802,22,Male,"Computer Science",1,6,0,1,0
+803,21,Male,Civil,2,6,0,0,0
+804,21,Male,Civil,0,6,0,0,0
+805,22,Female,"Information Technology",0,6,0,0,0
+806,22,Male,Electrical,2,7,0,0,0
+807,22,Male,Electrical,1,6,0,0,0
+808,22,Male,"Computer Science",1,8,0,0,1
+809,22,Female,"Electronics And Communication",1,7,1,1,0
+810,21,Male,Electrical,0,7,0,0,1
+811,21,Male,"Information Technology",1,8,0,1,1
+812,21,Male,Civil,1,8,0,0,1
+813,22,Male,Civil,1,7,0,0,0
+814,22,Male,"Electronics And Communication",0,7,0,0,0
+815,21,Male,"Electronics And Communication",1,6,1,1,0
+816,21,Male,"Electronics And Communication",2,6,0,0,1
+817,22,Male,"Computer Science",1,7,0,0,1
+818,22,Female,Mechanical,1,8,0,0,1
+819,21,Male,"Electronics And Communication",1,7,0,0,0
+820,21,Female,Electrical,2,8,0,0,1
+821,21,Male,"Computer Science",1,8,0,0,1
+822,22,Male,"Information Technology",0,8,0,0,1
+823,21,Male,Electrical,1,7,0,1,1
+824,21,Male,"Computer Science",2,7,0,0,1
+825,22,Male,"Computer Science",2,8,0,0,1
+826,21,Male,Civil,0,6,0,0,0
+827,22,Male,"Information Technology",2,6,0,0,1
+828,22,Female,"Electronics And Communication",2,6,0,0,1
+829,22,Male,"Electronics And Communication",1,6,0,0,0
+830,22,Male,"Computer Science",1,7,0,0,0
+831,21,Male,"Information Technology",1,6,0,0,1
+832,21,Male,Mechanical,0,8,1,0,1
+833,22,Male,Civil,0,8,0,1,1
+834,21,Female,"Electronics And Communication",1,8,1,1,1
+835,21,Female,Electrical,0,7,0,0,0
+836,22,Male,Mechanical,1,7,1,0,0
+837,22,Male,"Computer Science",0,6,0,0,1
+838,21,Male,Electrical,2,8,0,0,1
+839,21,Male,"Computer Science",1,8,0,0,1
+840,22,Female,"Information Technology",1,7,1,0,1
+841,22,Male,"Electronics And Communication",1,8,0,0,1
+842,22,Male,"Electronics And Communication",1,7,0,0,0
+843,21,Male,Mechanical,0,8,1,0,1
+844,21,Male,"Electronics And Communication",1,8,1,0,1
+845,21,Male,Mechanical,2,8,1,1,1
+846,21,Male,Electrical,2,7,1,1,1
+847,21,Male,"Electronics And Communication",1,8,0,0,1
+848,21,Male,"Computer Science",2,8,0,0,1
+849,22,Male,Mechanical,1,8,1,0,1
+850,22,Female,Electrical,2,7,0,0,0
+851,22,Male,Civil,0,7,0,1,0
+852,21,Male,Civil,2,8,1,1,1
+853,21,Male,Civil,2,7,0,0,0
+854,21,Male,"Electronics And Communication",0,7,0,0,0
+855,22,Female,"Computer Science",1,6,1,0,1
+856,21,Female,"Computer Science",0,6,1,0,1
+857,21,Male,Civil,0,8,1,0,1
+858,22,Male,Electrical,2,6,0,0,1
+859,22,Male,Mechanical,1,6,0,0,0
+860,21,Male,Mechanical,0,7,1,0,0
+861,22,Male,Mechanical,2,7,1,0,0
+862,22,Male,Civil,0,6,1,0,0
+863,21,Female,"Information Technology",0,7,0,0,1
+864,22,Female,"Electronics And Communication",1,7,0,0,0
+865,21,Male,"Electronics And Communication",2,7,0,0,1
+866,21,Male,"Electronics And Communication",2,6,0,0,1
+867,22,Female,"Electronics And Communication",2,8,0,0,1
+868,22,Male,"Information Technology",1,7,0,0,0
+869,22,Female,"Information Technology",0,8,0,0,1
+870,22,Male,"Electronics And Communication",1,8,0,0,1
+871,21,Female,"Information Technology",0,8,0,0,1
+872,22,Male,"Electronics And Communication",0,6,0,0,0
+873,22,Female,Electrical,2,6,0,0,1
+874,21,Male,"Electronics And Communication",0,7,0,0,1
+875,22,Female,"Information Technology",1,6,0,0,1
+876,22,Male,"Electronics And Communication",2,6,0,0,1
+877,21,Male,"Information Technology",1,8,0,0,1
+878,21,Male,Mechanical,1,6,1,0,0
+879,22,Male,Mechanical,1,7,1,0,0
+880,22,Male,"Computer Science",1,6,0,0,0
+881,22,Male,"Electronics And Communication",3,7,0,0,0
+882,22,Male,Mechanical,2,6,1,0,1
+883,22,Male,Mechanical,1,6,1,0,0
+884,21,Male,"Computer Science",1,8,0,0,1
+885,21,Male,Mechanical,0,6,1,0,0
+886,22,Male,"Information Technology",0,8,0,0,1
+887,22,Male,Civil,1,6,0,0,0
+888,21,Male,Mechanical,0,6,1,0,0
+889,22,Male,"Electronics And Communication",2,6,0,0,1
+890,22,Male,"Information Technology",0,8,0,0,1
+891,21,Female,Mechanical,1,8,1,0,1
+892,21,Male,"Information Technology",1,7,0,0,0
+893,21,Male,Electrical,1,6,1,1,0
+894,22,Male,Electrical,0,8,1,0,1
+895,21,Male,"Information Technology",2,7,0,1,0
+896,22,Male,"Computer Science",1,7,0,0,1
+897,21,Male,"Information Technology",0,6,0,0,1
+898,21,Female,"Computer Science",2,7,1,1,0
+899,21,Male,Mechanical,1,8,1,0,1
+900,21,Male,"Computer Science",0,8,0,1,1
+901,22,Female,"Information Technology",0,6,0,0,1
+902,21,Male,"Computer Science",2,8,0,0,1
+903,21,Male,"Information Technology",2,6,0,0,1
+904,22,Male,"Information Technology",1,7,0,0,0
+905,21,Male,"Electronics And Communication",1,8,1,1,1
+906,21,Male,Civil,2,7,0,0,0
+907,22,Male,"Information Technology",0,8,0,0,1
+908,22,Male,"Computer Science",1,6,0,0,0
+909,21,Female,"Computer Science",2,8,1,0,1
+910,22,Female,"Information Technology",0,8,0,0,1
+911,22,Male,Mechanical,1,6,1,0,0
+912,22,Male,"Computer Science",0,6,0,1,1
+913,21,Male,"Information Technology",0,6,0,0,1
+914,22,Male,Mechanical,1,7,1,0,0
+915,22,Male,"Information Technology",1,8,0,0,1
+916,22,Male,"Information Technology",1,6,0,0,0
+917,21,Male,"Computer Science",0,6,0,1,0
+918,21,Female,Electrical,1,8,0,0,1
+919,21,Male,Electrical,1,6,0,0,0
+920,21,Male,Electrical,0,6,0,0,0
+921,21,Male,"Electronics And Communication",1,7,0,0,0
+922,21,Male,Mechanical,1,6,1,0,0
+923,22,Male,"Information Technology",1,8,0,1,1
+924,22,Female,Mechanical,1,7,1,0,0
+925,22,Male,Electrical,1,6,0,0,0
+926,22,Male,Mechanical,0,6,1,0,0
+927,22,Female,"Computer Science",1,7,1,0,0
+928,22,Male,Mechanical,2,8,1,0,1
+929,21,Male,"Information Technology",1,8,0,0,1
+930,21,Female,Mechanical,1,8,1,0,1
+931,22,Male,"Information Technology",1,7,0,0,0
+932,22,Male,Electrical,1,7,0,0,0
+933,21,Male,"Electronics And Communication",0,8,0,0,1
+934,22,Male,Civil,1,6,0,0,0
+935,22,Male,"Electronics And Communication",0,8,0,0,1
+936,21,Female,"Electronics And Communication",1,9,0,0,1
+937,21,Male,"Information Technology",0,7,0,0,0
+938,21,Male,"Information Technology",1,7,0,1,0
+939,21,Male,"Information Technology",0,8,0,0,1
+940,21,Male,"Electronics And Communication",0,9,0,0,1
+941,21,Male,Electrical,0,8,0,0,1
+942,21,Female,"Computer Science",2,8,1,0,1
+943,21,Female,"Computer Science",1,7,1,0,1
+944,22,Male,"Computer Science",1,8,0,0,1
+945,22,Male,"Electronics And Communication",2,7,0,0,0
+946,21,Male,Mechanical,0,7,1,0,0
+947,22,Male,"Information Technology",0,7,0,0,0
+948,22,Male,"Electronics And Communication",2,7,0,1,0
+949,21,Male,"Electronics And Communication",0,6,0,0,0
+950,21,Male,Mechanical,0,9,1,0,1
+951,22,Male,Mechanical,1,8,1,0,1
+952,22,Female,"Information Technology",0,7,0,0,0
+953,22,Male,Mechanical,0,8,1,0,1
+954,22,Male,"Computer Science",1,6,0,0,0
+955,22,Male,Mechanical,1,8,1,0,1
+956,22,Male,"Electronics And Communication",1,7,0,1,0
+957,22,Male,"Computer Science",3,6,0,0,1
+958,22,Male,"Electronics And Communication",1,8,0,1,1
+959,22,Male,"Information Technology",0,6,0,0,1
+960,21,Male,"Electronics And Communication",1,6,0,0,0
+961,21,Female,Electrical,1,8,0,1,1
+962,22,Male,"Information Technology",0,7,0,0,1
+963,22,Male,"Electronics And Communication",0,7,0,0,0
+964,22,Female,"Computer Science",1,7,1,0,0
+965,22,Male,Civil,0,6,1,1,0
+966,21,Male,"Computer Science",2,7,0,0,1
+967,22,Female,"Information Technology",1,9,1,0,1
+968,22,Male,"Information Technology",1,7,0,0,0
+969,22,Male,Electrical,0,6,0,0,0
+970,21,Male,Mechanical,2,8,1,0,1
+971,21,Male,Electrical,1,8,0,0,1
+972,21,Male,"Electronics And Communication",2,7,1,1,1
+973,21,Female,"Information Technology",2,7,0,0,1
+974,22,Male,Civil,2,7,1,0,0
+975,22,Male,"Information Technology",3,8,0,0,1
+976,21,Male,"Information Technology",2,9,0,0,1
+977,22,Male,Mechanical,0,7,1,1,0
+978,21,Male,"Computer Science",0,6,0,0,0
+979,21,Male,Civil,2,7,0,1,0
+980,21,Female,"Information Technology",1,6,1,0,0
+981,22,Male,"Electronics And Communication",1,6,0,0,0
+982,22,Male,"Information Technology",1,9,0,0,1
+983,22,Male,Mechanical,1,7,1,1,0
+984,22,Male,"Computer Science",1,7,0,1,0
+985,22,Male,"Information Technology",1,8,0,0,1
+986,21,Male,"Information Technology",1,6,0,0,0
+987,21,Female,"Computer Science",2,7,1,0,1
+988,22,Female,Civil,1,8,0,1,1
+989,21,Male,Mechanical,0,8,1,0,1
+990,21,Male,"Information Technology",1,9,0,0,1
+991,22,Male,"Computer Science",3,6,0,1,0
+992,22,Male,Electrical,0,8,0,1,1
+993,21,Male,"Computer Science",1,8,0,0,1
+994,21,Male,"Information Technology",0,6,0,0,0
+995,21,Male,"Information Technology",1,8,0,0,1
+996,22,Male,Mechanical,1,9,1,0,1
+997,22,Male,Civil,0,8,0,0,1
+998,21,Male,"Computer Science",2,9,0,0,1
+999,22,Male,"Electronics And Communication",1,6,0,0,0
+1000,21,Female,"Electronics And Communication",2,9,0,0,1
+1001,22,Female,Civil,1,6,0,0,0
+1002,21,Male,"Computer Science",0,6,0,0,0
+1003,21,Male,"Electronics And Communication",1,8,0,0,1
+1004,21,Male,"Information Technology",0,8,0,0,1
+1005,22,Male,"Information Technology",0,7,0,0,0
+1006,22,Male,"Computer Science",1,9,0,0,1
+1007,21,Male,"Computer Science",1,7,0,0,0
+1008,21,Male,Mechanical,0,8,1,0,1
+1009,21,Male,Electrical,1,8,0,1,1
+1010,22,Male,"Information Technology",1,8,1,0,1
+1011,21,Male,"Information Technology",0,7,0,0,0
+1012,21,Male,"Electronics And Communication",2,8,0,0,1
+1013,21,Male,"Computer Science",0,7,0,0,0
+1014,22,Male,"Information Technology",2,8,0,0,1
+1015,21,Male,Electrical,0,6,0,0,0
+1016,21,Male,Electrical,0,8,0,0,1
+1017,21,Male,Mechanical,2,9,1,0,1
+1018,21,Male,"Electronics And Communication",1,7,1,1,0
+1019,21,Male,"Information Technology",0,7,0,0,0
+1020,21,Male,Electrical,2,7,1,1,1
+1021,21,Male,Civil,2,7,0,0,0
+1022,21,Male,Electrical,2,8,0,1,1
+1023,21,Male,Mechanical,1,9,1,1,1
+1024,22,Female,Civil,1,8,0,0,1
+1025,22,Female,"Computer Science",1,6,1,0,0
+1026,22,Male,"Information Technology",0,6,0,0,1
+1027,21,Female,"Computer Science",1,7,1,0,0
+1028,22,Female,"Information Technology",1,6,0,0,1
+1029,22,Male,"Information Technology",1,8,0,0,1
+1030,22,Male,Civil,0,7,1,0,0
+1031,24,Male,"Computer Science",1,8,0,0,1
+1032,21,Male,"Computer Science",0,8,0,1,1
+1033,24,Male,"Computer Science",1,6,1,1,1
+1034,22,Male,"Information Technology",2,6,0,0,1
+1035,22,Male,"Information Technology",1,6,0,0,1
+1036,21,Male,Civil,0,6,0,0,0
+1037,24,Male,"Computer Science",1,7,0,0,1
+1038,21,Male,Civil,0,8,0,0,1
+1039,24,Male,"Computer Science",1,7,0,0,1
+1040,21,Male,"Computer Science",0,7,0,0,1
+1041,24,Male,"Computer Science",1,7,0,0,1
+1042,21,Male,Civil,1,7,0,0,0
+1043,22,Female,Electrical,2,8,0,0,1
+1044,24,Female,"Information Technology",1,6,0,0,1
+1045,21,Male,Civil,1,6,0,0,0
+1046,21,Male,Civil,2,9,0,0,1
+1047,24,Male,"Computer Science",0,8,0,0,1
+1048,21,Male,"Information Technology",2,8,0,1,1
+1049,20,Female,Electrical,1,7,0,1,0
+1050,22,Male,Mechanical,1,9,1,0,1
+1051,21,Female,Mechanical,1,6,1,0,0
+1052,21,Male,"Computer Science",1,7,0,0,1
+1053,21,Female,"Information Technology",2,9,0,0,1
+1054,22,Male,"Information Technology",2,8,0,0,1
+1055,23,Male,"Electronics And Communication",0,7,0,0,0
+1056,22,Female,"Electronics And Communication",1,8,1,1,1
+1057,21,Female,Civil,1,8,0,1,1
+1058,22,Male,"Electronics And Communication",1,8,0,0,1
+1059,22,Male,"Information Technology",0,6,0,0,1
+1060,22,Male,"Electronics And Communication",2,9,0,0,1
+1061,22,Male,"Electronics And Communication",0,7,0,0,0
+1062,22,Female,"Computer Science",1,8,1,0,1
+1063,21,Male,"Information Technology",1,8,0,0,1
+1064,21,Male,"Computer Science",1,8,0,0,1
+1065,23,Male,"Computer Science",1,7,0,0,1
+1066,22,Female,Civil,1,8,0,0,1
+1067,22,Male,"Information Technology",2,7,1,0,1
+1068,23,Male,Electrical,2,7,0,0,0
+1069,21,Female,Civil,1,7,1,0,0
+1070,22,Male,"Computer Science",1,7,0,0,1
+1071,22,Female,"Computer Science",2,7,1,1,1
+1072,21,Female,Electrical,1,9,0,0,1
+1073,22,Male,"Information Technology",1,7,0,1,1
+1074,24,Male,"Computer Science",1,6,0,0,1
+1075,22,Male,"Computer Science",1,9,0,0,1
+1076,22,Male,"Information Technology",2,7,0,0,0
+1077,22,Female,"Information Technology",2,8,0,0,1
+1078,24,Male,"Computer Science",0,6,0,0,1
+1079,22,Male,Civil,2,9,0,1,1
+1080,22,Male,"Information Technology",0,6,0,0,0
+1081,21,Male,Mechanical,1,7,1,0,0
+1082,22,Male,"Computer Science",1,7,0,0,1
+1083,23,Male,Mechanical,0,7,0,0,0
+1084,22,Male,"Information Technology",2,7,0,0,0
+1085,22,Male,Mechanical,1,7,1,1,0
+1086,22,Male,Electrical,1,7,0,0,0
+1087,22,Male,Civil,2,8,0,0,1
+1088,22,Female,"Computer Science",1,7,1,0,0
+1089,23,Male,"Electronics And Communication",1,6,0,1,1
+1090,22,Male,"Computer Science",2,7,0,1,0
+1091,22,Male,Mechanical,0,7,1,0,0
+1092,23,Male,Electrical,0,8,0,1,1
+1093,21,Male,"Information Technology",1,9,1,0,1
+1094,22,Male,Civil,0,8,0,0,1
+1095,20,Male,Electrical,1,8,0,0,1
+1096,22,Male,"Computer Science",1,8,0,0,1
+1097,22,Male,"Information Technology",2,7,0,1,1
+1098,24,Male,Mechanical,0,7,1,0,0
+1099,22,Male,Civil,1,7,0,0,0
+1100,22,Male,Mechanical,0,7,1,0,0
+1101,21,Female,"Computer Science",2,8,1,0,1
+1102,22,Male,"Computer Science",0,6,0,0,1
+1103,24,Male,"Computer Science",2,6,0,0,1
+1104,22,Male,"Electronics And Communication",0,8,0,0,1
+1105,20,Male,"Computer Science",1,6,0,0,0
+1106,22,Male,"Computer Science",1,8,0,0,1
+1107,21,Male,Civil,2,7,1,0,1
+1108,24,Male,Mechanical,0,6,1,0,1
+1109,22,Male,"Computer Science",1,6,0,0,1
+1110,22,Male,"Electronics And Communication",2,8,0,0,1
+1111,22,Female,Electrical,1,7,0,0,0
+1112,22,Male,"Computer Science",2,7,0,0,1
+1113,22,Male,Mechanical,1,7,1,0,0
+1114,20,Male,Civil,1,6,0,0,0
+1115,21,Male,"Computer Science",1,8,0,0,1
+1116,21,Male,Electrical,1,7,1,0,1
+1117,23,Male,"Electronics And Communication",1,6,0,1,1
+1118,21,Male,"Information Technology",0,7,0,1,1
+1119,22,Male,Electrical,2,8,0,0,1
+1120,23,Male,Mechanical,0,6,1,0,0
+1121,22,Male,"Computer Science",0,7,0,0,1
+1122,22,Male,Electrical,1,8,0,1,1
+1123,22,Male,"Computer Science",1,6,0,0,0
+1124,22,Female,"Information Technology",0,8,0,0,1
+1125,21,Female,"Computer Science",1,8,1,0,1
+1126,22,Male,Mechanical,1,7,1,0,0
+1127,22,Male,"Information Technology",0,7,0,0,1
+1128,21,Male,Mechanical,1,7,1,0,0
+1129,23,Male,"Computer Science",0,7,0,0,0
+1130,22,Male,"Computer Science",0,8,0,0,1
+1131,21,Male,"Information Technology",1,9,1,0,1
+1132,22,Male,"Computer Science",1,8,0,0,1
+1133,21,Male,Civil,1,8,0,0,1
+1134,22,Male,Electrical,0,9,0,0,1
+1135,20,Male,"Computer Science",0,8,0,1,1
+1136,21,Male,Mechanical,0,7,1,0,0
+1137,21,Female,"Information Technology",0,9,0,0,1
+1138,20,Female,"Computer Science",1,7,1,0,1
+1139,21,Male,"Information Technology",1,6,0,0,1
+1140,21,Male,"Electronics And Communication",0,8,0,0,1
+1141,21,Male,Electrical,0,7,0,0,1
+1142,21,Male,"Information Technology",1,8,0,0,1
+1143,21,Female,"Computer Science",1,9,1,0,1
+1144,23,Male,"Computer Science",1,7,0,0,0
+1145,21,Male,Mechanical,0,7,1,0,0
+1146,22,Male,"Information Technology",1,7,0,0,0
+1147,21,Female,"Information Technology",1,8,0,0,1
+1148,22,Male,"Computer Science",1,7,0,0,1
+1149,21,Male,Mechanical,1,8,1,1,1
+1150,21,Male,Mechanical,0,6,1,0,0
+1151,21,Male,"Computer Science",1,7,0,0,1
+1152,21,Male,Mechanical,0,9,1,1,1
+1153,20,Male,Civil,0,8,0,0,1
+1154,22,Male,Mechanical,1,8,1,0,1
+1155,22,Male,"Information Technology",0,7,0,0,0
+1156,23,Female,"Computer Science",0,7,1,1,0
+1157,22,Male,"Information Technology",1,8,1,0,1
+1158,21,Male,"Information Technology",0,8,0,0,1
+1159,21,Male,"Electronics And Communication",0,8,0,1,1
+1160,21,Male,"Information Technology",0,6,0,1,1
+1161,22,Male,Civil,0,8,0,0,1
+1162,24,Male,"Electronics And Communication",1,7,0,0,0
+1163,21,Male,Mechanical,0,8,1,0,1
+1164,21,Male,"Electronics And Communication",1,6,0,0,0
+1165,21,Male,Electrical,0,8,0,0,1
+1166,22,Female,"Computer Science",0,9,1,1,1
+1167,22,Male,"Computer Science",0,6,0,1,0
+1168,21,Male,"Information Technology",0,7,0,1,1
+1169,22,Female,"Information Technology",1,8,1,0,1
+1170,20,Male,"Computer Science",2,7,0,0,0
+1171,22,Male,"Information Technology",2,8,0,0,1
+1172,21,Male,Mechanical,0,7,1,0,0
+1173,21,Male,"Computer Science",0,7,0,0,1
+1174,22,Male,Electrical,0,8,1,1,1
+1175,21,Male,Electrical,0,7,0,0,0
+1176,20,Male,"Information Technology",0,6,0,0,0
+1177,22,Male,Mechanical,0,7,1,0,0
+1178,22,Male,Mechanical,0,9,1,0,1
+1179,23,Male,"Information Technology",0,8,0,0,1
+1180,22,Female,"Electronics And Communication",1,6,0,0,0
+1181,22,Male,"Information Technology",1,7,0,0,0
+1182,22,Male,"Computer Science",0,7,0,0,0
+1183,21,Male,Mechanical,0,8,1,0,1
+1184,22,Male,Mechanical,2,9,1,0,1
+1185,21,Male,"Information Technology",0,8,0,0,1
+1186,21,Male,Electrical,0,7,0,0,0
+1187,21,Male,Electrical,0,8,1,0,1
+1188,21,Male,Mechanical,0,6,1,0,1
+1189,22,Male,"Electronics And Communication",1,6,0,0,0
+1190,21,Male,"Information Technology",1,8,0,0,1
+1191,24,Male,"Information Technology",0,8,0,0,1
+1192,21,Male,Civil,0,8,0,0,1
+1193,23,Male,"Electronics And Communication",1,6,0,0,0
+1194,21,Male,Civil,0,8,1,0,1
+1195,22,Male,"Computer Science",0,7,0,0,1
+1196,22,Male,"Computer Science",1,7,0,0,1
+1197,22,Male,"Information Technology",1,9,0,0,1
+1198,20,Male,Mechanical,0,6,1,1,0
+1199,21,Male,Mechanical,1,6,1,0,0
+1200,22,Female,"Computer Science",0,9,1,0,1
+1201,24,Male,Mechanical,0,7,1,0,1
+1202,21,Male,"Information Technology",0,6,0,1,1
+1203,21,Male,Civil,1,9,0,0,1
+1204,21,Male,"Information Technology",0,8,0,1,1
+1205,22,Female,"Computer Science",0,8,1,0,1
+1206,22,Female,"Information Technology",2,8,0,0,1
+1207,23,Male,"Computer Science",2,7,0,1,1
+1208,21,Female,"Computer Science",0,7,1,0,0
+1209,21,Male,"Information Technology",1,9,0,0,1
+1210,23,Male,Mechanical,1,7,1,0,1
+1211,22,Male,Civil,0,8,0,0,1
+1212,22,Male,Civil,0,9,0,1,1
+1213,23,Male,Civil,0,8,0,0,1
+1214,22,Male,"Computer Science",1,8,0,1,1
+1215,21,Male,Electrical,0,8,0,0,1
+1216,22,Male,"Electronics And Communication",1,7,0,0,0
+1217,22,Male,Civil,0,6,0,1,0
+1218,22,Male,"Computer Science",1,9,0,0,1
+1219,24,Male,Mechanical,1,8,1,0,1
+1220,22,Male,Electrical,0,8,0,0,1
+1221,22,Male,Mechanical,0,7,1,0,0
+1222,21,Female,"Computer Science",0,8,1,1,1
+1223,21,Male,"Electronics And Communication",1,8,0,0,1
+1224,21,Male,"Electronics And Communication",1,7,0,1,1
+1225,22,Male,"Computer Science",0,6,0,1,0
+1226,21,Male,Electrical,0,8,0,0,1
+1227,22,Male,"Information Technology",0,8,0,0,1
+1228,22,Male,"Electronics And Communication",0,6,0,0,1
+1229,21,Male,Civil,0,9,0,1,1
+1230,22,Male,"Computer Science",0,6,0,0,1
+1231,23,Male,Electrical,0,6,0,0,0
+1232,21,Male,"Computer Science",1,9,0,0,1
+1233,20,Male,"Computer Science",1,7,0,0,1
+1234,21,Male,Civil,0,9,0,0,1
+1235,22,Male,"Computer Science",1,8,0,0,1
+1236,21,Female,"Information Technology",1,8,0,0,1
+1237,20,Male,"Electronics And Communication",0,8,0,0,1
+1238,22,Male,"Information Technology",1,8,0,0,1
+1239,23,Male,"Computer Science",1,7,0,0,0
+1240,21,Male,"Electronics And Communication",1,7,0,0,0
+1241,21,Male,"Information Technology",1,7,0,0,1
+1242,22,Female,"Computer Science",1,8,1,0,1
+1243,21,Male,Civil,1,7,0,0,0
+1244,24,Male,Civil,0,8,0,0,1
+1245,22,Female,"Computer Science",2,7,1,0,1
+1246,21,Male,"Computer Science",1,9,0,0,1
+1247,21,Male,"Information Technology",0,8,0,0,1
+1248,22,Male,Electrical,0,6,0,0,0
+1249,22,Male,"Electronics And Communication",0,9,0,0,1
+1250,21,Male,Electrical,2,6,1,1,1
+1251,22,Male,Mechanical,0,6,1,0,0
+1252,22,Male,"Electronics And Communication",1,7,1,1,0
+1253,20,Female,"Information Technology",0,6,0,0,0
+1254,22,Male,"Computer Science",2,7,0,0,1
+1255,23,Male,"Computer Science",1,6,0,0,0
+1256,22,Male,Mechanical,0,7,1,0,0
+1257,20,Male,Civil,2,5,0,0,0
+1258,22,Male,"Computer Science",1,7,0,0,1
+1259,21,Female,Electrical,1,8,0,0,1
+1260,21,Male,Mechanical,1,5,1,0,0
+1261,21,Male,"Information Technology",1,6,1,1,1
+1262,21,Male,"Information Technology",1,8,1,0,1
+1263,23,Female,"Information Technology",1,6,1,0,0
+1264,21,Male,"Information Technology",1,6,0,1,1
+1265,22,Male,"Information Technology",1,8,0,0,1
+1266,24,Female,"Electronics And Communication",0,5,0,0,0
+1267,22,Female,"Information Technology",1,7,0,0,1
+1268,22,Female,Electrical,1,7,0,1,0
+1269,22,Male,Civil,1,6,0,0,0
+1270,21,Male,"Computer Science",1,7,0,0,0
+1271,21,Male,"Information Technology",2,8,0,1,1
+1272,24,Male,"Computer Science",1,5,0,0,0
+1273,22,Male,"Computer Science",1,9,0,0,1
+1274,23,Female,"Computer Science",0,5,1,1,0
+1275,21,Male,"Computer Science",2,9,0,0,1
+1276,21,Male,Civil,0,6,0,0,0
+1277,23,Male,"Information Technology",0,5,0,1,0
+1278,22,Female,"Computer Science",0,9,1,1,1
+1279,21,Male,"Information Technology",0,6,0,0,1
+1280,23,Male,"Information Technology",0,5,0,0,0
+1281,21,Male,"Information Technology",0,7,0,0,1
+1282,22,Male,"Information Technology",2,8,0,0,1
+1283,22,Male,Civil,2,6,0,0,0
+1284,22,Male,Mechanical,0,8,1,0,1
+1285,22,Male,"Information Technology",1,8,0,0,1
+1286,24,Male,"Information Technology",0,6,0,0,1
+1287,22,Male,"Computer Science",2,8,0,0,1
+1288,21,Female,"Computer Science",1,8,1,1,1
+1289,21,Male,"Electronics And Communication",0,8,0,0,1
+1290,22,Male,"Computer Science",1,7,0,0,1
+1291,22,Male,Civil,0,6,0,0,1
+1292,21,Male,Mechanical,1,9,1,0,1
+1293,22,Male,Electrical,2,6,0,0,1
+1294,24,Male,"Computer Science",1,6,0,0,1
+1295,22,Female,"Information Technology",1,9,0,0,1
+1296,21,Male,Civil,1,7,0,0,0
+1297,20,Male,"Computer Science",1,5,0,0,0
+1298,21,Male,Mechanical,0,9,1,0,1
+1299,21,Male,"Information Technology",2,7,0,1,1
+1300,20,Male,"Computer Science",2,5,0,0,0
+1301,21,Male,Civil,0,9,0,0,1
+1302,24,Male,Mechanical,0,5,0,1,0
+1303,21,Male,Civil,0,7,0,0,0
+1304,24,Male,Civil,0,5,0,0,0
+1305,21,Male,"Information Technology",0,5,0,0,0
+1306,22,Male,"Information Technology",2,7,0,1,1
+1307,23,Male,Electrical,1,6,0,1,0
+1308,21,Male,"Information Technology",0,9,0,0,1
+1309,21,Male,"Electronics And Communication",1,6,1,1,0
+1310,21,Female,"Computer Science",0,7,1,0,1
+1311,21,Male,"Information Technology",0,9,0,0,1
+1312,21,Male,Mechanical,1,8,1,1,1
+1313,23,Female,"Computer Science",1,7,1,0,1
+1314,21,Male,Mechanical,1,7,1,0,0
+1315,22,Male,"Information Technology",1,8,1,0,1
+1316,21,Male,"Electronics And Communication",1,8,1,1,1
+1317,22,Male,"Information Technology",2,6,0,1,1
+1318,21,Male,Mechanical,1,9,1,0,1
+1319,21,Male,"Computer Science",1,6,0,1,0
+1320,22,Male,"Computer Science",1,8,1,0,1
+1321,22,Male,"Information Technology",2,7,0,0,1
+1322,22,Male,"Computer Science",1,8,0,1,1
+1323,22,Male,"Information Technology",1,8,0,0,1
+1324,20,Male,Civil,1,6,1,0,1
+1325,22,Male,"Information Technology",1,9,0,0,1
+1326,21,Male,"Information Technology",2,7,0,1,1
+1327,24,Female,"Information Technology",1,7,0,0,0
+1328,22,Male,"Electronics And Communication",0,7,0,0,0
+1329,24,Female,Mechanical,1,7,0,0,1
+1330,21,Male,Electrical,2,8,0,0,1
+1331,21,Female,"Electronics And Communication",1,7,0,0,1
+1332,20,Male,Civil,0,7,1,1,0
+1333,21,Male,"Electronics And Communication",1,8,1,1,1
+1334,23,Male,"Electronics And Communication",0,6,0,1,0
+1335,22,Male,Mechanical,0,9,1,0,1
+1336,24,Male,Mechanical,0,8,1,0,1
+1337,22,Male,"Computer Science",1,9,0,0,1
+1338,20,Male,Mechanical,0,8,1,1,1
+1339,22,Male,Mechanical,0,7,1,0,0
+1340,23,Male,"Information Technology",0,7,0,1,0
+1341,21,Male,"Information Technology",0,7,0,0,1
+1342,22,Male,Mechanical,1,9,1,0,1
+1343,22,Female,"Information Technology",0,8,0,0,1
+1344,22,Male,Electrical,0,9,0,0,1
+1345,24,Male,"Electronics And Communication",0,7,0,0,0
+1346,21,Male,"Computer Science",2,9,0,1,1
+1347,23,Male,"Information Technology",0,7,0,0,0
+1348,21,Male,"Information Technology",0,7,0,0,1
+1349,22,Male,"Computer Science",3,9,0,0,1
+1350,22,Male,Mechanical,0,9,1,1,1
+1351,21,Male,"Information Technology",2,9,0,0,1
+1352,23,Male,"Computer Science",1,8,0,0,1
+1353,21,Female,"Electronics And Communication",1,7,0,0,0
+1354,24,Male,"Information Technology",1,7,0,0,1
+1355,24,Female,"Electronics And Communication",0,8,0,0,1
+1356,22,Male,"Information Technology",2,7,1,0,0
+1357,21,Female,"Electronics And Communication",0,7,0,0,0
+1358,23,Male,"Electronics And Communication",2,8,0,0,1
+1359,22,Male,"Information Technology",0,7,0,0,1
+1360,24,Male,Civil,0,8,1,0,1
+1361,20,Male,Mechanical,1,8,0,0,1
+1362,22,Male,"Computer Science",1,8,0,0,1
+1363,21,Male,Civil,0,8,0,0,1
+1364,20,Male,"Information Technology",1,7,0,0,1
+1365,21,Male,Civil,0,8,1,0,1
+1366,22,Male,"Computer Science",1,8,0,1,1
+1367,24,Male,"Computer Science",1,7,0,0,0
+1368,21,Male,Civil,0,7,0,0,1
+1369,23,Male,"Information Technology",1,8,0,0,1
+1370,21,Male,Electrical,0,6,0,0,1
+1371,20,Male,Mechanical,1,7,1,1,0
+1372,24,Male,"Information Technology",1,8,0,0,1
+1373,20,Female,"Computer Science",2,7,1,1,0
+1374,23,Female,"Electronics And Communication",0,6,0,0,0
+1375,22,Male,Civil,0,6,0,0,0
+1376,22,Male,"Computer Science",3,8,0,0,1
+1377,23,Male,Mechanical,1,8,1,0,1
+1378,23,Male,"Information Technology",0,7,0,1,1
+1379,23,Male,Electrical,0,8,0,0,1
+1380,20,Male,Civil,0,8,0,0,1
+1381,24,Male,Mechanical,0,6,1,1,1
+1382,20,Female,"Electronics And Communication",0,8,0,0,1
+1383,22,Male,"Electronics And Communication",1,8,0,0,1
+1384,20,Male,Civil,2,6,0,0,1
+1385,23,Male,Electrical,0,7,0,0,1
+1386,21,Male,Civil,0,7,0,0,0
+1387,24,Male,Mechanical,0,6,1,0,1
+1388,21,Male,Mechanical,0,8,1,1,1
+1389,22,Male,"Information Technology",1,7,0,0,1
+1390,24,Male,"Information Technology",0,6,0,0,1
+1391,20,Male,Electrical,0,7,0,0,0
+1392,24,Male,Mechanical,1,8,1,1,1
+1393,22,Male,Civil,2,8,1,1,1
+1394,22,Male,Mechanical,0,8,1,0,1
+1395,22,Male,"Information Technology",2,6,0,0,1
+1396,22,Male,"Information Technology",2,6,0,0,1
+1397,23,Male,"Information Technology",2,7,0,0,1
+1398,21,Female,Civil,2,7,0,0,0
+1399,21,Female,"Information Technology",0,6,0,0,0
+1400,22,Male,Electrical,1,7,0,1,0
+1401,22,Male,"Electronics And Communication",1,8,0,0,1
+1402,22,Male,Civil,2,7,0,0,0
+1403,21,Male,"Computer Science",0,6,0,1,1
+1404,21,Male,"Information Technology",2,8,0,0,1
+1405,23,Female,"Computer Science",1,7,1,0,0
+1406,21,Male,Civil,1,6,0,0,0
+1407,22,Female,"Computer Science",2,6,1,0,1
+1408,21,Female,"Electronics And Communication",1,7,0,0,1
+1409,22,Female,"Information Technology",1,7,0,1,1
+1410,21,Male,Mechanical,2,6,1,0,1
+1411,22,Male,Mechanical,2,6,1,0,1
+1412,21,Male,"Information Technology",2,7,0,0,1
+1413,22,Male,"Computer Science",2,7,0,0,1
+1414,21,Male,Electrical,1,6,0,0,0
+1415,21,Female,"Computer Science",1,6,0,0,1
+1416,21,Male,Mechanical,0,7,1,0,0
+1417,22,Male,Civil,2,6,1,0,1
+1418,22,Male,"Computer Science",1,7,0,0,1
+1419,21,Male,"Electronics And Communication",0,7,0,1,0
+1420,21,Male,"Information Technology",1,8,0,0,1
+1421,20,Male,"Information Technology",1,8,0,0,1
+1422,21,Male,"Computer Science",2,7,0,0,1
+1423,21,Male,"Information Technology",1,8,0,0,1
+1424,22,Female,Mechanical,1,6,1,0,0
+1425,22,Female,"Information Technology",1,8,0,0,1
+1426,22,Male,"Computer Science",0,6,0,1,0
+1427,22,Male,Mechanical,1,6,1,0,0
+1428,24,Male,"Computer Science",1,8,0,0,1
+1429,21,Male,"Computer Science",1,8,0,1,1
+1430,20,Male,"Electronics And Communication",0,7,0,0,0
+1431,21,Male,"Computer Science",2,8,0,1,1
+1432,21,Male,"Information Technology",1,6,1,0,0
+1433,22,Male,"Information Technology",2,8,0,0,1
+1434,21,Male,"Computer Science",0,6,0,1,0
+1435,22,Male,Mechanical,1,7,1,0,0
+1436,21,Male,"Electronics And Communication",0,8,0,1,1
+1437,21,Female,"Computer Science",1,8,1,1,1
+1438,21,Female,"Electronics And Communication",0,8,0,0,1
+1439,23,Female,"Electronics And Communication",0,8,0,0,1
+1440,22,Male,"Computer Science",2,7,0,0,0
+1441,21,Male,Civil,0,6,1,1,0
+1442,21,Male,"Computer Science",2,8,0,0,1
+1443,24,Female,"Electronics And Communication",0,8,0,0,1
+1444,22,Male,Mechanical,1,7,1,0,0
+1445,23,Female,Mechanical,1,6,1,0,0
+1446,21,Male,"Computer Science",2,7,0,0,1
+1447,22,Male,Civil,1,6,0,0,0
+1448,23,Male,Electrical,0,8,0,0,1
+1449,22,Male,Civil,2,8,0,1,1
+1450,23,Male,"Computer Science",1,8,0,0,1
+1451,21,Male,Electrical,2,7,0,0,1
+1452,22,Male,"Information Technology",1,8,0,1,1
+1453,21,Male,Mechanical,0,6,1,0,0
+1454,21,Female,Electrical,1,8,0,1,1
+1455,24,Male,"Information Technology",0,6,0,0,1
+1456,22,Female,Mechanical,1,6,1,0,0
+1457,24,Male,"Electronics And Communication",1,6,1,1,1
+1458,22,Male,"Electronics And Communication",1,8,1,1,1
+1459,20,Male,"Information Technology",2,8,0,0,1
+1460,20,Male,Mechanical,0,6,1,0,0
+1461,23,Male,"Information Technology",0,8,0,0,1
+1462,20,Male,"Computer Science",0,8,0,0,1
+1463,21,Female,"Computer Science",1,6,1,0,0
+1464,21,Male,"Computer Science",0,6,0,0,0
+1465,21,Male,Electrical,0,6,0,0,0
+1466,21,Male,"Information Technology",1,8,0,0,1
+1467,22,Male,"Information Technology",0,6,0,0,0
+1468,24,Female,"Electronics And Communication",0,6,0,0,1
+1469,23,Male,Mechanical,1,8,1,0,1
+1470,21,Male,"Information Technology",0,7,0,0,0
+1471,22,Male,"Electronics And Communication",0,7,0,0,0
+1472,24,Female,"Computer Science",1,7,1,0,1
+1473,23,Male,"Information Technology",0,7,0,0,0
+1474,22,Male,"Information Technology",0,6,0,0,0
+1475,23,Male,"Information Technology",2,6,0,0,1
+1476,24,Male,"Information Technology",2,8,0,0,1
+1477,20,Male,Mechanical,0,8,1,0,1
+1478,22,Male,"Information Technology",1,6,0,0,0
+1479,20,Male,"Information Technology",0,8,0,0,1
+1480,22,Male,"Computer Science",2,8,0,1,1
+1481,21,Male,Civil,0,7,1,1,0
+1482,22,Male,"Information Technology",1,7,0,0,1
+1483,20,Male,Mechanical,0,7,1,0,0
+1484,21,Male,"Information Technology",0,7,0,0,1
+1485,22,Male,"Computer Science",0,6,0,0,0
+1486,20,Male,"Computer Science",1,8,0,0,1
+1487,21,Male,"Computer Science",0,6,0,0,0
+1488,20,Male,Electrical,2,7,1,0,1
+1489,22,Male,"Electronics And Communication",0,7,0,0,0
+1490,21,Male,"Information Technology",0,7,0,0,0
+1491,23,Male,"Electronics And Communication",0,6,0,0,0
+1492,19,Female,"Information Technology",1,8,0,1,1
+1493,23,Female,"Information Technology",1,5,0,0,0
+1494,19,Male,Electrical,1,8,0,0,1
+1495,22,Female,"Computer Science",1,5,1,0,0
+1496,21,Male,"Computer Science",1,7,0,0,1
+1497,20,Female,"Computer Science",0,5,1,1,0
+1498,19,Male,"Computer Science",0,7,0,0,1
+1499,20,Male,Mechanical,0,5,1,0,0
+1500,20,Female,"Computer Science",0,8,1,0,1
+1501,24,Female,"Computer Science",2,5,1,0,0
+1502,19,Male,Electrical,0,8,0,0,1
+1503,24,Male,"Electronics And Communication",0,6,0,0,1
+1504,21,Female,Civil,1,8,0,1,1
+1505,22,Male,"Information Technology",1,6,0,0,0
+1506,21,Female,"Computer Science",1,8,1,0,1
+1507,23,Female,"Electronics And Communication",0,5,0,0,0
+1508,22,Male,"Information Technology",0,7,0,0,0
+1509,22,Male,Mechanical,1,6,1,0,0
+1510,20,Male,"Electronics And Communication",0,8,0,0,1
+1511,21,Female,Mechanical,1,5,1,0,0
+1512,22,Male,"Electronics And Communication",1,7,0,0,0
+1513,22,Male,Mechanical,1,5,0,0,0
+1514,21,Male,"Computer Science",0,8,0,0,1
+1515,24,Male,"Information Technology",1,6,0,1,1
+1516,22,Male,"Computer Science",0,7,0,0,0
+1517,23,Male,Mechanical,0,5,1,1,0
+1518,21,Male,"Computer Science",1,8,0,0,1
+1519,23,Female,Civil,1,5,0,0,0
+1520,20,Male,"Information Technology",1,8,0,0,1
+1521,22,Male,Electrical,0,5,0,0,0
+1522,22,Female,Mechanical,1,8,1,0,1
+1523,20,Male,"Computer Science",1,5,0,0,0
+1524,22,Female,"Computer Science",0,8,1,0,1
+1525,23,Male,"Computer Science",1,5,0,0,0
+1526,21,Male,Electrical,0,8,0,0,1
+1527,23,Male,Civil,0,5,0,0,0
+1528,22,Male,Mechanical,0,8,1,0,1
+1529,21,Female,"Information Technology",0,6,0,0,0
+1530,22,Female,"Computer Science",1,7,1,0,1
+1531,24,Male,Civil,0,6,0,0,1
+1532,19,Male,"Computer Science",1,7,0,1,1
+1533,23,Male,"Computer Science",0,6,0,0,1
+1534,22,Male,"Computer Science",0,8,0,1,1
+1535,24,Male,"Information Technology",1,6,0,0,1
+1536,22,Male,"Computer Science",3,7,0,0,0
+1537,22,Male,"Information Technology",1,5,0,0,0
+1538,21,Male,"Information Technology",0,7,0,0,0
+1539,22,Male,Electrical,1,6,1,1,0
+1540,22,Male,"Information Technology",0,7,0,0,0
+1541,21,Male,"Information Technology",0,5,0,0,0
+1542,21,Male,Civil,1,7,0,0,0
+1543,21,Male,"Electronics And Communication",0,6,0,0,0
+1544,20,Female,"Information Technology",1,8,1,0,1
+1545,20,Male,"Computer Science",0,5,0,0,0
+1546,19,Male,"Information Technology",0,8,0,0,1
+1547,22,Male,"Information Technology",0,6,0,0,0
+1548,21,Male,"Electronics And Communication",1,8,0,1,1
+1549,23,Female,Mechanical,1,5,1,0,0
+1550,21,Male,"Information Technology",2,7,0,1,0
+1551,22,Male,"Computer Science",2,6,0,0,1
+1552,19,Male,"Computer Science",1,8,0,0,1
+1553,23,Male,Civil,1,6,0,1,0
+1554,22,Female,"Computer Science",1,8,1,1,1
+1555,21,Male,"Computer Science",1,8,0,0,1
+1556,22,Male,Electrical,2,6,1,0,1
+1557,19,Male,Electrical,1,8,0,1,1
+1558,21,Male,Mechanical,0,5,1,1,0
+1559,19,Female,"Electronics And Communication",1,7,0,0,1
+1560,21,Male,Electrical,0,6,0,0,0
+1561,21,Male,Electrical,0,8,0,0,1
+1562,20,Male,Mechanical,1,5,1,0,0
+1563,20,Male,"Computer Science",0,7,0,1,0
+1564,24,Male,"Information Technology",0,6,0,0,1
+1565,20,Male,"Computer Science",1,7,0,0,0
+1566,23,Male,Mechanical,0,5,1,0,0
+1567,22,Male,Mechanical,3,7,1,1,0
+1568,21,Male,Civil,0,5,0,1,0
+1569,22,Male,"Electronics And Communication",0,7,0,0,0
+1570,21,Male,"Computer Science",1,6,0,1,0
+1571,20,Female,"Information Technology",1,7,1,0,1
+1572,20,Male,"Information Technology",0,6,0,0,0
+1573,20,Male,"Information Technology",0,7,0,1,1
+1574,21,Male,"Computer Science",2,5,0,0,0
+1575,22,Female,"Computer Science",3,8,1,0,1
+1576,23,Male,"Computer Science",3,6,0,0,1
+1577,22,Male,"Electronics And Communication",2,8,0,0,1
+1578,21,Male,"Electronics And Communication",1,5,0,0,0
+1579,19,Female,Civil,1,8,0,0,1
+1580,22,Male,Electrical,1,6,0,1,0
+1581,22,Male,"Electronics And Communication",1,8,1,1,1
+1582,20,Male,Civil,0,6,0,1,0
+1583,22,Male,"Information Technology",0,8,0,1,1
+1584,24,Male,"Information Technology",0,6,0,0,1
+1585,20,Male,Mechanical,1,8,1,0,1
+1586,24,Male,"Electronics And Communication",1,6,0,1,1
+1587,20,Male,"Information Technology",1,8,1,1,1
+1588,22,Male,Mechanical,0,6,1,0,0
+1589,20,Male,Mechanical,1,7,1,1,0
+1590,22,Male,"Information Technology",0,6,0,0,0
+1591,22,Female,"Computer Science",1,7,1,0,0
+1592,23,Male,Civil,1,6,0,1,0
+1593,20,Male,"Computer Science",1,8,0,0,1
+1594,22,Male,"Computer Science",0,6,0,0,0
+1595,19,Male,Civil,1,7,0,0,0
+1596,24,Male,Mechanical,0,6,1,0,1
+1597,21,Male,Civil,0,7,0,0,0
+1598,20,Male,Mechanical,0,6,1,1,0
+1599,19,Male,"Computer Science",2,7,0,0,1
+1600,24,Male,Civil,1,6,0,0,1
+1601,22,Male,Electrical,0,7,0,0,0
+1602,21,Male,Mechanical,1,5,1,0,0
+1603,19,Male,"Electronics And Communication",0,8,0,0,1
+1604,23,Male,"Computer Science",0,5,0,1,0
+1605,19,Male,Civil,0,7,1,0,0
+1606,23,Female,"Computer Science",1,5,1,0,0
+1607,21,Male,"Information Technology",0,8,0,0,1
+1608,23,Male,"Computer Science",1,6,0,0,0
+1609,19,Male,Civil,0,8,0,1,1
+1610,21,Male,"Computer Science",1,6,0,0,0
+1611,22,Male,"Computer Science",1,8,0,0,1
+1612,22,Male,Civil,0,5,1,0,0
+1613,20,Male,"Computer Science",1,7,0,0,0
+1614,21,Male,"Electronics And Communication",0,6,0,0,0
+1615,22,Male,"Computer Science",0,7,0,0,0
+1616,22,Male,Electrical,1,6,1,1,0
+1617,21,Male,"Information Technology",1,8,1,0,1
+1618,22,Male,"Information Technology",0,5,0,0,0
+1619,20,Male,"Information Technology",1,8,1,0,1
+1620,23,Male,Civil,1,6,0,0,0
+1621,19,Male,Mechanical,1,8,1,0,1
+1622,23,Male,Civil,0,6,0,1,0
+1623,20,Male,Civil,1,8,0,0,1
+1624,21,Male,Electrical,0,6,0,1,0
+1625,21,Male,"Computer Science",0,7,0,0,0
+1626,22,Male,"Information Technology",0,8,0,0,1
+1627,20,Female,"Computer Science",1,8,1,0,1
+1628,19,Male,"Information Technology",1,7,0,0,0
+1629,21,Male,"Computer Science",1,8,0,0,1
+1630,20,Male,"Electronics And Communication",0,8,0,0,1
+1631,21,Male,"Computer Science",0,6,0,1,0
+1632,21,Male,"Computer Science",1,8,0,0,1
+1633,23,Female,"Computer Science",1,8,1,0,1
+1634,20,Male,Mechanical,0,8,1,1,1
+1635,20,Male,"Computer Science",3,7,0,1,0
+1636,21,Male,Electrical,0,7,0,0,0
+1637,21,Male,"Electronics And Communication",2,7,0,0,1
+1638,20,Male,"Computer Science",2,8,0,0,1
+1639,21,Female,"Computer Science",0,7,1,0,0
+1640,23,Male,"Computer Science",1,7,0,0,0
+1641,20,Male,"Computer Science",1,6,0,0,0
+1642,21,Male,"Computer Science",1,7,0,1,0
+1643,21,Male,"Information Technology",1,6,0,0,0
+1644,22,Male,"Computer Science",0,8,0,0,1
+1645,20,Male,"Information Technology",0,8,0,0,1
+1646,19,Male,"Electronics And Communication",0,8,0,0,1
+1647,22,Female,"Information Technology",1,6,0,0,0
+1648,19,Male,Civil,0,7,0,0,0
+1649,21,Female,"Information Technology",1,6,0,0,0
+1650,21,Male,"Information Technology",0,7,0,0,0
+1651,24,Male,"Information Technology",0,7,0,0,0
+1652,21,Male,Mechanical,1,8,1,0,1
+1653,20,Male,"Computer Science",1,8,0,0,1
+1654,23,Male,Electrical,1,8,0,0,1
+1655,22,Female,"Electronics And Communication",1,7,1,0,0
+1656,20,Male,"Information Technology",1,6,0,0,0
+1657,20,Male,Civil,0,7,0,0,0
+1658,19,Male,"Computer Science",0,8,0,0,1
+1659,24,Male,"Computer Science",2,6,0,0,1
+1660,22,Male,"Computer Science",2,7,0,0,0
+1661,22,Male,Civil,0,8,1,0,1
+1662,20,Male,"Computer Science",1,7,0,0,0
+1663,20,Female,"Information Technology",1,6,0,0,0
+1664,22,Male,"Information Technology",1,7,1,0,0
+1665,21,Male,Civil,0,8,1,0,1
+1666,21,Male,Mechanical,0,8,1,0,1
+1667,22,Male,Mechanical,0,8,0,0,1
+1668,19,Male,"Electronics And Communication",0,8,0,0,1
+1669,20,Male,"Information Technology",1,7,0,0,0
+1670,22,Male,"Information Technology",1,8,0,0,1
+1671,20,Male,"Computer Science",0,8,0,0,1
+1672,22,Male,"Information Technology",1,8,1,0,1
+1673,19,Male,"Computer Science",1,7,0,0,0
+1674,22,Female,"Electronics And Communication",0,8,0,0,1
+1675,21,Male,"Electronics And Communication",0,7,0,0,1
+1676,24,Male,Civil,1,7,1,0,0
+1677,19,Male,"Electronics And Communication",0,8,0,0,1
+1678,22,Male,"Information Technology",1,6,0,0,0
+1679,21,Male,Electrical,1,8,0,0,1
+1680,23,Male,"Information Technology",0,7,0,0,0
+1681,19,Male,"Computer Science",0,8,0,0,1
+1682,23,Male,"Electronics And Communication",1,6,0,1,0
+1683,22,Female,"Information Technology",1,6,0,0,0
+1684,19,Male,"Computer Science",1,8,0,0,1
+1685,23,Male,Mechanical,1,6,1,0,0
+1686,22,Male,"Computer Science",0,7,0,0,0
+1687,24,Male,"Information Technology",0,6,0,0,1
+1688,21,Female,"Electronics And Communication",0,8,0,0,1
+1689,24,Male,"Information Technology",0,8,0,0,1
+1690,19,Male,"Computer Science",2,8,0,0,1
+1691,22,Male,"Computer Science",0,6,0,1,0
+1692,19,Male,"Electronics And Communication",0,7,0,0,1
+1693,24,Male,"Computer Science",1,6,0,0,1
+1694,19,Male,Electrical,0,6,0,0,0
+1695,21,Female,"Computer Science",0,7,1,0,0
+1696,20,Male,Mechanical,0,8,1,0,1
+1697,24,Male,"Computer Science",0,7,0,0,1
+1698,21,Male,Electrical,1,7,1,1,1
+1699,21,Male,Mechanical,0,8,0,0,1
+1700,20,Male,"Computer Science",0,8,0,1,1
+1701,24,Male,Civil,0,6,1,0,1
+1702,22,Male,"Computer Science",0,6,0,0,0
+1703,24,Male,"Information Technology",1,6,0,0,1
+1704,19,Male,"Computer Science",0,7,0,0,0
+1705,21,Male,Electrical,1,6,0,0,0
+1706,20,Male,Electrical,0,8,0,1,1
+1707,24,Male,"Electronics And Communication",1,8,0,1,1
+1708,22,Female,Electrical,0,6,0,0,0
+1709,20,Male,"Computer Science",0,6,0,0,0
+1710,22,Male,"Information Technology",1,6,0,0,0
+1711,20,Female,Mechanical,1,6,1,0,0
+1712,21,Male,"Electronics And Communication",0,6,0,1,0
+1713,20,Male,"Computer Science",0,7,0,1,0
+1714,20,Male,"Information Technology",1,7,0,0,0
+1715,21,Male,"Information Technology",0,8,0,0,1
+1716,24,Male,"Computer Science",0,6,0,0,1
+1717,21,Male,"Computer Science",1,8,0,0,1
+1718,21,Male,"Computer Science",2,8,0,0,1
+1719,19,Male,Civil,1,7,0,1,0
+1720,22,Male,"Computer Science",1,8,0,0,1
+1721,19,Male,"Computer Science",0,8,0,0,1
+1722,23,Male,"Electronics And Communication",0,7,0,0,0
+1723,19,Male,Electrical,1,6,0,0,0
+1724,21,Female,"Information Technology",0,8,0,0,1
+1725,22,Male,"Electronics And Communication",0,7,0,0,0
+1726,23,Male,"Computer Science",1,6,0,0,0
+1727,22,Male,"Electronics And Communication",0,6,0,0,0
+1728,23,Male,Civil,0,8,0,0,1
+1729,22,Male,"Electronics And Communication",0,7,0,0,0
+1730,22,Male,"Electronics And Communication",1,8,0,1,1
+1731,24,Male,"Electronics And Communication",1,7,1,1,0
+1732,22,Male,"Computer Science",1,7,0,0,0
+1733,22,Male,"Information Technology",0,6,0,0,0
+1734,19,Male,Mechanical,2,8,1,0,1
+1735,20,Male,"Computer Science",0,6,0,1,0
+1736,24,Male,Civil,0,7,1,1,0
+1737,22,Female,Mechanical,1,6,1,0,0
+1738,21,Male,Mechanical,0,8,1,1,1
+1739,21,Male,"Information Technology",0,6,0,1,0
+1740,22,Female,"Electronics And Communication",1,6,1,1,0
+1741,22,Male,"Electronics And Communication",3,6,0,0,1
+1742,22,Male,Civil,0,7,0,0,0
+1743,20,Male,"Computer Science",0,7,0,0,0
+1744,22,Male,"Information Technology",1,6,1,0,0
+1745,20,Male,"Information Technology",0,6,0,0,0
+1746,24,Female,"Electronics And Communication",1,7,1,1,1
+1747,20,Male,"Information Technology",1,8,0,0,1
+1748,24,Male,"Computer Science",0,6,0,1,1
+1749,21,Male,Civil,0,7,0,0,0
+1750,23,Female,Mechanical,1,7,1,0,0
+1751,20,Male,"Computer Science",2,7,0,0,1
+1752,22,Male,"Electronics And Communication",1,8,0,0,1
+1753,20,Female,Mechanical,1,8,1,0,1
+1754,21,Male,Civil,0,7,0,0,0
+1755,20,Male,Mechanical,1,7,1,0,0
+1756,20,Male,Electrical,1,6,0,0,0
+1757,19,Male,Electrical,2,6,0,1,0
+1758,19,Male,Civil,2,6,1,0,1
+1759,22,Male,"Computer Science",1,8,0,0,1
+1760,22,Female,Electrical,0,7,1,1,0
+1761,22,Male,"Computer Science",0,7,0,0,0
+1762,21,Male,"Computer Science",2,6,0,0,1
+1763,19,Male,"Computer Science",0,6,0,0,0
+1764,23,Male,"Computer Science",1,8,0,0,1
+1765,22,Male,Mechanical,2,7,1,0,0
+1766,20,Male,"Electronics And Communication",1,8,1,1,1
+1767,20,Male,"Computer Science",1,6,0,0,0
+1768,22,Female,"Computer Science",1,6,1,0,0
+1769,21,Male,Electrical,1,7,0,0,1
+1770,20,Male,Mechanical,0,8,1,0,1
+1771,20,Male,Mechanical,0,8,1,0,1
+1772,22,Male,"Computer Science",1,7,0,0,0
+1773,21,Male,"Electronics And Communication",0,7,0,0,0
+1774,19,Male,"Information Technology",1,8,0,0,1
+1775,22,Male,"Electronics And Communication",0,8,0,0,1
+1776,22,Male,"Information Technology",0,6,0,0,0
+1777,21,Male,Mechanical,0,7,1,0,0
+1778,19,Male,"Electronics And Communication",2,8,0,0,1
+1779,23,Male,"Electronics And Communication",0,6,0,0,0
+1780,19,Male,Mechanical,0,6,1,1,0
+1781,21,Male,Electrical,0,7,0,0,0
+1782,21,Male,"Information Technology",0,8,0,0,1
+1783,21,Male,"Information Technology",1,6,1,0,0
+1784,21,Male,"Information Technology",1,6,0,0,0
+1785,20,Male,Mechanical,0,6,1,1,0
+1786,21,Male,"Computer Science",1,6,0,0,0
+1787,24,Male,Mechanical,0,8,1,1,1
+1788,21,Male,Electrical,0,6,0,0,0
+1789,21,Male,"Electronics And Communication",2,8,1,1,1
+1790,22,Male,Civil,0,7,0,0,0
+1791,19,Male,"Information Technology",1,7,1,0,0
+1792,24,Female,"Information Technology",1,7,0,0,0
+1793,21,Male,"Computer Science",0,8,0,0,1
+1794,22,Male,"Computer Science",1,6,0,0,0
+1795,20,Male,Electrical,0,8,0,0,1
+1796,21,Male,"Information Technology",2,8,0,0,1
+1797,20,Male,"Information Technology",0,6,0,0,0
+1798,23,Male,"Computer Science",2,8,0,0,1
+1799,24,Male,"Information Technology",2,8,0,0,1
+1800,20,Male,"Electronics And Communication",2,6,0,0,1
+1801,21,Male,Electrical,1,8,0,0,1
+1802,22,Male,Electrical,0,7,0,0,0
+1803,21,Male,"Information Technology",2,7,0,1,0
+1804,21,Male,"Information Technology",2,6,0,0,1
+1805,20,Male,Mechanical,0,6,1,0,0
+1806,21,Male,Electrical,0,7,0,0,0
+1807,22,Male,"Information Technology",2,6,0,0,1
+1808,21,Female,"Computer Science",0,8,1,0,1
+1809,22,Male,Mechanical,0,8,1,0,1
+1810,21,Male,"Electronics And Communication",0,8,0,0,1
+1811,19,Male,"Computer Science",2,7,0,1,0
+1812,21,Male,"Computer Science",1,8,0,0,1
+1813,20,Female,Electrical,0,8,1,1,1
+1814,21,Female,"Computer Science",0,7,1,1,0
+1815,19,Male,Electrical,0,8,0,0,1
+1816,23,Male,"Computer Science",0,6,0,0,0
+1817,20,Male,"Information Technology",0,7,0,1,0
+1818,23,Male,"Computer Science",0,6,0,0,0
+1819,23,Male,Electrical,1,7,0,0,1
+1820,19,Male,"Information Technology",3,7,0,0,1
+1821,21,Female,"Information Technology",1,6,0,0,0
+1822,21,Female,"Computer Science",0,6,1,1,0
+1823,21,Male,"Information Technology",2,7,0,0,1
+1824,21,Male,"Computer Science",2,6,0,0,1
+1825,22,Male,Mechanical,1,7,1,1,0
+1826,22,Male,"Computer Science",2,8,0,0,1
+1827,24,Male,Mechanical,1,7,1,0,0
+1828,20,Male,Electrical,1,7,0,0,1
+1829,21,Male,"Information Technology",1,7,1,0,0
+1830,19,Male,Mechanical,0,6,1,0,0
+1831,21,Male,Civil,0,7,1,0,0
+1832,20,Male,Electrical,0,6,1,1,0
+1833,21,Female,"Electronics And Communication",1,7,1,0,0
+1834,19,Male,Civil,0,8,1,0,1
+1835,20,Male,"Computer Science",0,7,0,0,0
+1836,19,Male,"Computer Science",1,6,0,0,0
+1837,24,Male,"Computer Science",1,7,0,0,0
+1838,21,Male,"Computer Science",0,8,0,1,1
+1839,20,Male,"Information Technology",0,6,0,0,0
+1840,22,Male,Civil,1,7,0,0,0
+1841,20,Female,Electrical,1,7,0,1,1
+1842,22,Male,"Information Technology",0,6,0,1,0
+1843,21,Male,Civil,1,6,0,0,0
+1844,21,Female,"Computer Science",2,7,1,0,1
+1845,20,Male,"Electronics And Communication",1,7,0,0,1
+1846,19,Male,"Electronics And Communication",0,6,0,0,0
+1847,20,Male,"Information Technology",0,7,0,0,0
+1848,20,Male,Mechanical,0,8,1,1,1
+1849,24,Male,Electrical,1,7,0,0,1
+1850,20,Female,"Information Technology",1,8,0,0,1
+1851,22,Male,"Electronics And Communication",1,8,0,1,1
+1852,21,Male,"Computer Science",0,6,0,0,0
+1853,23,Female,"Information Technology",0,7,0,0,0
+1854,20,Male,"Information Technology",1,7,0,0,0
+1855,22,Male,"Computer Science",2,7,0,0,0
+1856,20,Male,"Electronics And Communication",2,7,0,0,1
+1857,21,Male,"Electronics And Communication",1,8,1,1,1
+1858,22,Male,"Computer Science",0,6,0,0,0
+1859,21,Male,"Electronics And Communication",0,8,0,0,1
+1860,21,Male,"Computer Science",0,6,0,0,0
+1861,22,Male,"Information Technology",0,8,0,1,1
+1862,22,Male,"Computer Science",0,6,0,0,0
+1863,22,Male,Mechanical,0,6,1,0,0
+1864,19,Male,"Computer Science",1,7,0,0,0
+1865,22,Male,"Information Technology",2,6,0,0,1
+1866,20,Male,"Information Technology",2,7,0,0,1
+1867,21,Male,"Information Technology",1,7,0,0,0
+1868,19,Male,"Information Technology",1,8,0,0,1
+1869,22,Female,Electrical,0,8,0,0,1
+1870,23,Female,Electrical,0,6,0,0,0
+1871,24,Male,"Electronics And Communication",0,6,0,0,1
+1872,24,Male,Civil,1,6,0,0,1
+1873,21,Male,"Information Technology",1,9,0,1,1
+1874,19,Male,"Information Technology",0,6,0,1,0
+1875,19,Male,"Computer Science",1,9,0,0,1
+1876,19,Male,Civil,0,7,0,0,0
+1877,20,Female,"Computer Science",1,6,1,1,1
+1878,20,Male,"Information Technology",0,6,0,0,0
+1879,19,Male,"Electronics And Communication",0,8,0,0,1
+1880,21,Male,"Electronics And Communication",1,7,0,1,1
+1881,19,Male,"Electronics And Communication",0,7,0,0,0
+1882,22,Female,"Computer Science",2,8,1,0,1
+1883,21,Male,"Computer Science",0,5,0,1,0
+1884,22,Male,"Computer Science",0,8,0,0,1
+1885,19,Male,Electrical,1,7,0,1,1
+1886,20,Male,"Computer Science",1,7,0,0,0
+1887,20,Male,"Electronics And Communication",1,6,0,0,0
+1888,19,Male,Civil,1,8,0,0,1
+1889,21,Male,Electrical,0,7,0,0,0
+1890,22,Male,"Computer Science",0,6,0,0,0
+1891,19,Male,Mechanical,0,9,1,1,1
+1892,20,Male,"Electronics And Communication",0,6,0,0,0
+1893,19,Male,"Electronics And Communication",2,8,1,1,1
+1894,22,Male,Mechanical,0,6,1,0,0
+1895,19,Male,"Electronics And Communication",0,9,0,0,1
+1896,21,Male,"Information Technology",0,7,0,0,0
+1897,20,Male,"Computer Science",3,6,0,0,1
+1898,21,Female,"Electronics And Communication",0,7,0,0,0
+1899,22,Male,"Information Technology",1,6,0,0,1
+1900,20,Male,"Electronics And Communication",0,8,0,1,1
+1901,22,Male,"Computer Science",1,9,0,0,1
+1902,20,Female,"Electronics And Communication",2,8,0,0,1
+1903,21,Male,"Computer Science",1,7,0,1,1
+1904,22,Female,"Computer Science",1,7,1,0,0
+1905,21,Female,"Information Technology",1,5,0,0,0
+1906,22,Female,Mechanical,1,6,1,0,0
+1907,22,Male,Electrical,0,5,1,0,0
+1908,19,Male,"Electronics And Communication",0,7,0,0,0
+1909,19,Male,Mechanical,1,5,1,0,0
+1910,22,Male,Mechanical,0,5,1,0,0
+1911,22,Female,"Electronics And Communication",0,8,0,0,1
+1912,21,Male,"Electronics And Communication",0,9,0,0,1
+1913,19,Male,Electrical,1,6,0,0,0
+1914,19,Male,"Computer Science",0,8,0,0,1
+1915,20,Male,"Computer Science",2,7,0,0,1
+1916,21,Male,Electrical,1,5,0,0,0
+1917,19,Female,"Computer Science",1,7,1,0,0
+1918,20,Male,Electrical,0,5,0,0,0
+1919,21,Male,Mechanical,0,8,1,0,1
+1920,21,Female,Civil,1,8,0,0,1
+1921,22,Male,"Computer Science",1,6,0,0,0
+1922,20,Male,"Computer Science",0,8,0,1,1
+1923,19,Male,Mechanical,1,6,1,0,0
+1924,22,Male,"Information Technology",2,5,0,0,0
+1925,20,Male,Electrical,0,6,0,0,0
+1926,29,Female,Mechanical,1,8,1,0,1
+1927,20,Male,Mechanical,0,6,1,0,0
+1928,20,Male,"Information Technology",1,6,0,0,0
+1929,19,Male,"Computer Science",0,9,0,1,1
+1930,20,Male,"Information Technology",0,6,0,0,0
+1931,22,Male,Civil,1,7,0,0,0
+1932,20,Male,"Information Technology",1,6,0,0,0
+1933,22,Male,"Electronics And Communication",0,5,0,0,0
+1934,20,Male,"Electronics And Communication",0,6,0,0,0
+1935,22,Male,Civil,1,8,0,0,1
+1936,19,Male,"Information Technology",0,9,0,1,1
+1937,19,Male,Mechanical,0,6,0,0,1
+1938,19,Male,"Computer Science",0,6,0,0,0
+1939,22,Male,"Information Technology",1,9,0,1,1
+1940,20,Male,"Electronics And Communication",1,6,0,0,0
+1941,21,Male,"Electronics And Communication",1,7,0,1,1
+1942,19,Male,"Information Technology",0,7,0,0,0
+1943,19,Male,Electrical,0,5,0,0,0
+1944,20,Male,Electrical,0,6,0,0,0
+1945,21,Male,"Computer Science",1,8,0,0,1
+1946,19,Female,"Computer Science",0,8,1,0,1
+1947,22,Male,"Computer Science",1,6,0,0,1
+1948,20,Male,"Information Technology",0,8,0,1,1
+1949,19,Male,"Electronics And Communication",1,8,0,1,1
+1950,19,Male,"Information Technology",2,7,0,0,1
+1951,22,Male,"Electronics And Communication",1,9,1,1,1
+1952,22,Female,Civil,1,6,0,0,0
+1953,22,Male,"Computer Science",0,6,0,0,1
+1954,22,Male,Civil,1,6,0,0,0
+1955,22,Female,"Computer Science",0,9,1,0,1
+1956,19,Male,Electrical,0,8,0,0,1
+1957,19,Male,"Information Technology",1,6,0,0,1
+1958,21,Male,Electrical,0,8,0,0,1
+1959,20,Male,Mechanical,1,9,1,0,1
+1960,22,Female,"Information Technology",0,6,0,0,0
+1961,21,Male,"Computer Science",0,9,0,0,1
+1962,20,Male,"Electronics And Communication",1,7,0,0,0
+1963,19,Male,"Information Technology",2,8,0,0,1
+1964,21,Male,"Computer Science",2,7,0,0,1
+1965,21,Male,Electrical,1,9,0,0,1
+1966,19,Male,"Information Technology",2,8,0,0,1
+1967,20,Male,Civil,0,8,1,0,1
+1968,22,Female,"Information Technology",1,7,0,0,0
+1969,19,Male,"Computer Science",1,7,0,0,1
+1970,21,Male,"Electronics And Communication",0,7,0,0,1
+1971,20,Male,"Information Technology",0,8,0,0,1
+1972,19,Male,"Information Technology",1,8,0,0,1
+1973,20,Male,"Computer Science",0,5,0,0,0
+1974,21,Male,"Computer Science",1,6,0,0,0
+1975,19,Female,Electrical,3,9,0,1,1
+1976,21,Male,"Electronics And Communication",1,8,0,1,1
+1977,20,Male,"Information Technology",1,7,0,0,1
+1978,21,Male,"Computer Science",0,7,0,1,0
+1979,22,Male,Civil,0,9,1,0,1
+1980,20,Male,Mechanical,0,7,1,1,1
+1981,20,Male,Civil,0,7,1,0,0
+1982,21,Male,"Information Technology",0,7,0,0,0
+1983,21,Female,"Information Technology",0,8,0,0,1
+1984,20,Male,"Computer Science",1,8,0,0,1
+1985,20,Male,"Computer Science",0,6,0,0,0
+1986,21,Male,"Information Technology",1,8,1,0,1
+1987,19,Female,Electrical,1,7,0,0,1
+1988,21,Male,Civil,0,6,0,0,0
+1989,22,Male,Civil,0,8,1,0,1
+1990,19,Male,Mechanical,0,7,1,0,0
+1991,19,Male,"Computer Science",0,7,0,1,0
+1992,22,Male,Electrical,0,8,0,0,1
+1993,20,Male,"Computer Science",0,8,0,0,1
+1994,22,Male,"Computer Science",1,9,0,0,1
+1995,20,Female,Mechanical,1,7,0,0,0
+1996,20,Female,Civil,1,9,1,0,1
+1997,22,Female,"Computer Science",1,8,1,0,1
+1998,21,Male,Mechanical,0,6,1,0,1
+1999,22,Male,"Information Technology",0,6,0,0,0
+2000,20,Male,"Computer Science",2,7,0,1,1
+2001,19,Male,"Computer Science",1,8,0,0,1
+2002,21,Male,"Computer Science",0,5,0,0,0
+2003,20,Female,Electrical,3,6,0,1,0
+2004,21,Female,"Electronics And Communication",0,7,0,0,0
+2005,20,Male,Civil,0,8,1,0,1
+2006,21,Male,"Information Technology",0,6,0,0,0
+2007,19,Male,Mechanical,1,7,1,0,0
+2008,22,Male,"Information Technology",1,5,1,0,0
+2009,22,Male,"Computer Science",1,6,0,0,0
+2010,19,Male,"Information Technology",1,9,1,0,1
+2011,19,Male,Mechanical,1,8,1,0,1
+2012,19,Male,Mechanical,3,7,1,0,1
+2013,21,Male,Electrical,1,6,0,0,0
+2014,21,Male,Electrical,0,5,1,0,0
+2015,21,Male,Mechanical,0,8,1,0,1
+2016,20,Female,"Computer Science",0,9,1,1,1
+2017,20,Male,"Computer Science",0,6,0,0,0
+2018,21,Male,"Computer Science",1,6,0,0,1
+2019,20,Male,Mechanical,1,6,1,0,0
+2020,22,Male,"Information Technology",1,5,0,0,0
+2021,20,Male,"Computer Science",1,8,0,0,1
+2022,21,Male,"Electronics And Communication",0,7,0,0,0
+2023,20,Male,Mechanical,2,6,1,0,1
+2024,21,Male,"Information Technology",3,9,1,0,1
+2025,20,Male,"Computer Science",0,7,0,1,0
+2026,22,Male,Mechanical,0,5,0,0,0
+2027,20,Male,"Computer Science",0,6,0,0,0
+2028,21,Male,"Computer Science",2,7,0,0,0
+2029,20,Male,"Computer Science",0,6,0,0,0
+2030,20,Male,"Information Technology",3,9,1,0,1
+2031,21,Male,"Computer Science",1,8,0,0,1
+2032,22,Male,Mechanical,0,8,1,0,1
+2033,20,Male,"Electronics And Communication",1,6,1,1,0
+2034,19,Male,"Electronics And Communication",1,6,0,1,1
+2035,20,Female,Civil,1,7,0,0,0
+2036,20,Male,Mechanical,1,9,1,0,1
+2037,19,Male,"Electronics And Communication",1,7,0,0,1
+2038,20,Male,Civil,2,9,1,0,1
+2039,19,Female,"Electronics And Communication",0,8,0,0,1
+2040,21,Male,Mechanical,1,8,1,0,1
+2041,19,Male,"Electronics And Communication",1,7,0,1,0
+2042,22,Male,"Electronics And Communication",1,7,1,1,1
+2043,21,Female,"Information Technology",0,6,0,0,0
+2044,22,Female,"Computer Science",1,6,1,0,0
+2045,22,Male,Electrical,1,7,1,1,0
+2046,20,Male,"Computer Science",0,6,0,0,0
+2047,22,Male,Mechanical,1,6,1,0,0
+2048,19,Female,"Information Technology",1,8,0,0,1
+2049,21,Male,Mechanical,0,6,1,1,0
+2050,19,Male,"Information Technology",1,7,0,0,0
+2051,20,Male,"Information Technology",0,7,0,1,0
+2052,21,Male,"Computer Science",1,6,0,0,0
+2053,22,Male,Mechanical,1,7,1,0,0
+2054,21,Female,Electrical,0,7,1,1,0
+2055,22,Male,Civil,0,8,1,0,1
+2056,20,Male,"Computer Science",1,8,0,0,1
+2057,22,Female,"Electronics And Communication",0,6,0,0,0
+2058,21,Male,Civil,1,6,0,0,0
+2059,19,Male,Mechanical,0,7,1,0,0
+2060,20,Male,"Electronics And Communication",1,6,0,0,0
+2061,22,Male,"Electronics And Communication",1,6,0,0,0
+2062,19,Male,"Information Technology",2,6,0,0,1
+2063,19,Male,Civil,0,6,0,0,0
+2064,21,Male,Mechanical,1,6,1,1,0
+2065,22,Male,"Information Technology",2,8,0,0,1
+2066,19,Male,Electrical,0,7,0,0,0
+2067,20,Male,"Computer Science",1,8,0,0,1
+2068,19,Male,"Information Technology",0,8,0,0,1
+2069,21,Male,Civil,0,7,1,0,0
+2070,20,Male,"Electronics And Communication",0,6,0,0,0
+2071,21,Female,"Information Technology",1,7,0,0,1
+2072,19,Male,Civil,1,7,0,0,0
+2073,22,Male,"Information Technology",0,8,0,1,1
+2074,19,Male,Mechanical,0,7,1,0,0
+2075,21,Male,Electrical,1,8,0,0,1
+2076,21,Male,"Information Technology",2,7,0,0,1
+2077,21,Male,Civil,0,7,0,1,0
+2078,20,Male,Electrical,0,6,0,0,0
+2079,22,Male,Mechanical,0,6,1,1,0
+2080,19,Male,"Computer Science",1,6,0,0,1
+2081,20,Male,"Information Technology",0,8,0,0,1
+2082,20,Female,"Computer Science",0,7,1,1,1
+2083,19,Female,Mechanical,1,6,1,0,0
+2084,19,Female,"Computer Science",1,7,1,0,1
+2085,22,Female,"Computer Science",2,7,1,0,0
+2086,19,Male,Electrical,0,6,0,1,0
+2087,22,Male,Mechanical,0,6,1,0,0
+2088,19,Male,"Electronics And Communication",0,7,0,0,1
+2089,20,Male,Civil,0,6,0,0,0
+2090,19,Male,Electrical,0,7,0,0,0
+2091,20,Male,"Computer Science",1,7,0,0,0
+2092,20,Male,"Computer Science",0,6,0,1,1
+2093,21,Male,"Computer Science",2,6,0,0,1
+2094,21,Female,"Computer Science",1,8,1,0,1
+2095,20,Male,"Computer Science",0,7,0,0,0
+2096,19,Male,Mechanical,0,6,1,0,0
+2097,19,Male,"Computer Science",1,8,0,0,1
+2098,19,Male,"Computer Science",2,8,0,0,1
+2099,21,Male,Electrical,1,6,0,0,0
+2100,20,Male,"Computer Science",0,7,0,0,0
+2101,22,Male,Mechanical,0,6,1,0,0
+2102,20,Male,Electrical,1,6,0,0,1
+2103,21,Male,Electrical,0,7,1,0,0
+2104,22,Female,"Computer Science",3,6,1,0,1
+2105,22,Male,"Electronics And Communication",0,8,0,0,1
+2106,21,Male,Electrical,0,7,0,0,0
+2107,21,Male,Electrical,0,7,0,0,0
+2108,20,Male,"Computer Science",0,8,0,1,1
+2109,22,Male,"Electronics And Communication",1,6,0,0,0
+2110,19,Male,"Information Technology",2,8,0,0,1
+2111,20,Male,Mechanical,1,8,1,0,1
+2112,22,Male,"Electronics And Communication",1,6,0,0,0
+2113,21,Male,"Computer Science",1,6,0,0,0
+2114,22,Male,"Information Technology",0,7,0,0,1
+2115,20,Male,Mechanical,0,6,1,1,0
+2116,20,Male,Mechanical,0,7,1,0,0
+2117,21,Male,"Computer Science",0,8,0,0,1
+2118,20,Male,Civil,1,8,0,0,1
+2119,22,Male,Civil,0,8,0,0,1
+2120,22,Male,Civil,0,6,0,0,0
+2121,22,Male,"Computer Science",1,8,0,0,1
+2122,21,Male,"Computer Science",0,8,0,1,1
+2123,19,Male,Civil,1,6,0,0,0
+2124,22,Male,Electrical,0,8,0,0,1
+2125,21,Male,Civil,0,6,1,0,0
+2126,21,Male,"Electronics And Communication",0,6,0,0,0
+2127,20,Male,Electrical,0,6,0,0,0
+2128,20,Male,"Electronics And Communication",1,8,0,0,1
+2129,22,Male,"Computer Science",1,6,0,0,1
+2130,19,Male,"Computer Science",0,8,0,0,1
+2131,19,Male,Mechanical,0,8,1,1,1
+2132,20,Male,"Information Technology",1,6,0,1,0
+2133,19,Female,"Information Technology",1,6,0,0,0
+2134,21,Male,Electrical,0,6,0,0,0
+2135,21,Female,Mechanical,1,6,0,0,0
+2136,22,Male,Mechanical,0,8,0,0,1
+2137,21,Male,"Computer Science",1,8,0,0,1
+2138,19,Female,"Electronics And Communication",1,8,0,1,1
+2139,19,Male,"Electronics And Communication",0,7,0,0,1
+2140,21,Male,"Electronics And Communication",0,8,0,0,1
+2141,21,Male,Civil,1,6,0,0,0
+2142,19,Male,Mechanical,1,8,1,1,1
+2143,20,Male,"Electronics And Communication",1,7,0,0,1
+2144,19,Male,Mechanical,0,7,1,0,0
+2145,19,Male,Civil,0,8,1,1,1
+2146,19,Male,Mechanical,0,7,0,0,0
+2147,19,Male,"Information Technology",0,6,0,0,0
+2148,19,Male,Electrical,2,7,0,0,1
+2149,20,Female,"Computer Science",0,7,1,0,0
+2150,22,Female,Civil,1,6,0,0,0
+2151,19,Male,Civil,1,6,0,0,1
+2152,20,Male,"Computer Science",1,7,0,0,1
+2153,22,Male,"Information Technology",1,6,0,0,1
+2154,19,Male,"Computer Science",0,7,0,1,1
+2155,19,Female,Electrical,0,7,0,0,0
+2156,22,Male,"Computer Science",1,7,0,0,0
+2157,21,Male,Civil,0,8,0,0,1
+2158,20,Male,Civil,1,8,0,0,1
+2159,21,Male,"Electronics And Communication",2,8,0,0,1
+2160,20,Female,"Computer Science",0,6,1,1,0
+2161,21,Male,Electrical,1,7,0,0,1
+2162,22,Male,"Computer Science",1,7,0,0,0
+2163,22,Female,"Information Technology",3,6,1,1,0
+2164,20,Male,"Computer Science",2,7,0,0,1
+2165,20,Male,"Computer Science",2,6,0,0,1
+2166,19,Male,Mechanical,1,6,1,1,0
+2167,22,Male,"Information Technology",1,8,1,0,1
+2168,22,Male,Mechanical,0,8,0,0,1
+2169,22,Female,"Electronics And Communication",1,7,1,0,0
+2170,20,Male,Electrical,0,8,0,1,1
+2171,21,Male,"Information Technology",1,8,1,0,1
+2172,21,Male,"Computer Science",0,6,0,0,0
+2173,21,Male,"Information Technology",0,6,0,0,0
+2174,21,Male,"Information Technology",0,8,0,0,1
+2175,20,Female,Civil,1,6,0,1,0
+2176,19,Male,"Information Technology",0,7,0,0,0
+2177,20,Female,"Information Technology",0,6,0,0,0
+2178,22,Male,Mechanical,1,8,1,0,1
+2179,22,Female,Electrical,0,7,0,0,0
+2180,19,Male,"Computer Science",1,6,0,0,0
+2181,21,Male,"Information Technology",1,7,0,0,0
+2182,22,Male,Civil,0,6,1,0,0
+2183,19,Female,Electrical,1,7,0,0,1
+2184,19,Male,Civil,1,8,0,0,1
+2185,21,Male,"Computer Science",1,6,0,0,0
+2186,20,Male,"Computer Science",1,7,0,0,0
+2187,19,Male,Electrical,0,8,0,1,1
+2188,20,Male,"Information Technology",1,8,0,0,1
+2189,19,Female,"Electronics And Communication",0,6,0,0,0
+2190,20,Male,"Computer Science",1,6,0,0,0
+2191,19,Male,"Information Technology",1,7,0,0,0
+2192,22,Male,Mechanical,0,8,0,0,1
+2193,20,Female,"Computer Science",1,8,1,0,1
+2194,19,Male,"Electronics And Communication",1,8,0,0,1
+2195,19,Male,Civil,0,6,0,0,0
+2196,19,Male,Civil,0,8,1,1,1
+2197,20,Male,Mechanical,0,8,1,0,1
+2198,19,Male,"Electronics And Communication",0,8,0,0,1
+2199,20,Male,"Information Technology",1,7,0,0,0
+2200,22,Male,"Information Technology",0,6,0,0,0
+2201,28,Male,"Computer Science",0,6,0,0,1
+2202,22,Male,"Computer Science",1,7,0,0,0
+2203,22,Female,"Electronics And Communication",1,7,0,0,0
+2204,20,Male,Civil,0,7,0,0,0
+2205,20,Male,"Electronics And Communication",1,6,0,0,0
+2206,21,Female,"Information Technology",0,6,0,0,0
+2207,22,Male,"Information Technology",0,6,0,0,0
+2208,21,Male,"Information Technology",0,7,0,0,0
+2209,20,Female,"Electronics And Communication",0,7,0,0,1
+2210,19,Male,"Electronics And Communication",1,6,1,0,0
+2211,19,Male,Electrical,2,7,0,1,1
+2212,19,Male,"Computer Science",1,7,0,0,0
+2213,21,Male,"Information Technology",0,8,0,0,1
+2214,21,Male,"Computer Science",0,7,0,0,0
+2215,21,Male,"Computer Science",1,6,0,0,0
+2216,22,Male,Mechanical,1,6,0,0,0
+2217,20,Male,Civil,0,8,0,0,1
+2218,21,Male,"Information Technology",0,8,0,0,1
+2219,22,Male,Civil,1,7,0,0,0
+2220,20,Male,"Electronics And Communication",1,7,0,0,0
+2221,22,Male,Mechanical,0,7,1,0,0
+2222,20,Male,"Information Technology",0,6,0,0,0
+2223,19,Male,Mechanical,0,8,1,0,1
+2224,22,Male,"Information Technology",1,8,0,0,1
+2225,19,Male,Electrical,0,6,0,0,0
+2226,22,Male,Civil,0,7,0,0,0
+2227,22,Male,"Information Technology",0,8,0,0,1
+2228,22,Male,Civil,0,7,0,0,0
+2229,21,Male,Electrical,0,8,0,0,1
+2230,21,Female,"Information Technology",0,8,0,0,1
+2231,20,Male,Mechanical,0,7,1,1,0
+2232,21,Male,Civil,0,7,0,0,0
+2233,19,Male,Mechanical,1,8,1,0,1
+2234,21,Male,Mechanical,0,7,0,0,0
+2235,21,Male,"Information Technology",1,6,0,0,0
+2236,21,Male,"Electronics And Communication",0,8,0,0,1
+2237,19,Male,Mechanical,1,8,0,1,1
+2238,22,Male,"Computer Science",0,9,0,0,1
+2239,19,Male,"Computer Science",0,7,0,1,0
+2240,22,Male,"Information Technology",0,7,0,0,0
+2241,22,Male,Civil,1,6,1,0,0
+2242,19,Male,Electrical,0,8,0,0,1
+2243,19,Female,"Computer Science",1,6,1,0,0
+2244,22,Male,"Information Technology",1,8,0,0,1
+2245,22,Male,Civil,1,7,0,0,0
+2246,22,Male,Mechanical,2,7,1,0,0
+2247,21,Male,"Information Technology",1,8,0,0,1
+2248,21,Male,"Computer Science",1,9,0,0,1
+2249,21,Male,"Information Technology",0,9,0,0,1
+2250,19,Male,Electrical,2,8,0,1,1
+2251,22,Male,Civil,0,7,0,1,0
+2252,21,Female,Mechanical,1,6,1,1,0
+2253,21,Male,"Information Technology",1,8,0,0,1
+2254,21,Male,Electrical,0,7,0,0,0
+2255,21,Male,"Electronics And Communication",0,8,0,0,1
+2256,20,Male,Electrical,0,8,0,1,1
+2257,21,Male,Electrical,0,9,0,0,1
+2258,20,Male,Mechanical,1,8,1,0,1
+2259,21,Male,"Electronics And Communication",0,8,0,0,1
+2260,19,Male,"Computer Science",2,6,0,0,1
+2261,22,Male,"Information Technology",1,9,1,0,1
+2262,21,Male,"Information Technology",0,6,0,1,0
+2263,22,Male,Mechanical,0,9,1,0,1
+2264,22,Male,"Information Technology",1,7,0,0,0
+2265,22,Male,"Computer Science",0,7,0,0,0
+2266,22,Male,Civil,1,8,0,0,1
+2267,21,Male,"Information Technology",1,8,1,1,1
+2268,21,Male,"Computer Science",1,7,0,0,0
+2269,21,Male,"Information Technology",0,7,0,0,0
+2270,21,Male,"Information Technology",0,7,0,0,0
+2271,21,Male,Electrical,0,7,0,0,0
+2272,22,Female,"Electronics And Communication",2,7,0,0,0
+2273,21,Male,Electrical,1,7,0,1,1
+2274,22,Male,"Information Technology",0,6,0,1,0
+2275,19,Male,Civil,0,6,1,0,0
+2276,22,Male,"Computer Science",1,8,0,0,1
+2277,21,Male,"Electronics And Communication",1,6,1,1,0
+2278,21,Male,"Electronics And Communication",0,9,0,0,1
+2279,19,Female,"Computer Science",1,7,1,0,0
+2280,25,Male,"Information Technology",0,7,0,0,1
+2281,21,Male,"Computer Science",0,6,0,1,0
+2282,26,Male,Electrical,0,7,1,0,0
+2283,24,Male,"Information Technology",1,6,0,1,1
+2284,25,Male,"Electronics And Communication",0,6,0,0,1
+2285,26,Female,"Computer Science",0,7,1,0,0
+2286,20,Male,"Information Technology",0,7,0,0,0
+2287,26,Male,"Computer Science",1,7,0,0,1
+2288,20,Male,Electrical,0,7,1,0,0
+2289,26,Male,"Computer Science",1,6,0,0,1
+2290,19,Male,"Electronics And Communication",1,8,0,1,1
+2291,26,Male,"Information Technology",2,7,0,0,1
+2292,19,Male,"Computer Science",1,6,0,0,0
+2293,24,Female,"Computer Science",1,7,0,0,0
+2294,21,Male,Civil,0,8,1,0,1
+2295,26,Female,Civil,1,6,0,1,1
+2296,22,Male,Electrical,3,7,0,0,0
+2297,26,Male,"Computer Science",0,6,0,1,1
+2298,21,Male,"Electronics And Communication",0,8,0,1,1
+2299,26,Male,"Computer Science",1,7,0,0,0
+2300,20,Male,"Computer Science",2,6,0,0,1
+2301,22,Male,"Computer Science",2,7,0,0,0
+2302,26,Male,"Information Technology",1,7,0,0,0
+2303,21,Female,Mechanical,1,8,1,0,1
+2304,26,Male,Mechanical,0,7,0,1,0
+2305,26,Male,Electrical,0,6,0,0,1
+2306,20,Male,Civil,0,8,0,1,1
+2307,20,Male,"Computer Science",1,7,0,0,0
+2308,21,Male,Mechanical,0,6,1,0,0
+2309,25,Male,"Information Technology",1,7,0,0,0
+2310,20,Male,Mechanical,0,7,1,0,0
+2311,26,Male,Mechanical,0,6,1,0,1
+2312,20,Male,"Electronics And Communication",1,6,0,1,0
+2313,24,Male,"Electronics And Communication",1,7,0,1,0
+2314,20,Female,"Computer Science",0,6,1,1,0
+2315,26,Male,"Electronics And Communication",0,6,0,0,1
+2316,20,Male,Mechanical,0,6,1,1,0
+2317,26,Male,"Computer Science",0,6,0,0,1
+2318,22,Male,"Electronics And Communication",1,6,0,0,0
+2319,20,Male,"Computer Science",1,8,0,0,1
+2320,24,Female,"Computer Science",0,6,1,1,1
+2321,20,Male,Civil,1,6,0,0,0
+2322,21,Male,"Information Technology",0,6,0,0,0
+2323,24,Male,"Computer Science",0,6,0,1,1
+2324,20,Male,"Computer Science",0,8,0,0,1
+2325,21,Male,"Information Technology",0,6,0,0,0
+2326,24,Male,Electrical,1,7,0,0,1
+2327,20,Male,"Electronics And Communication",1,6,0,0,0
+2328,20,Male,"Information Technology",0,6,0,0,0
+2329,25,Male,Mechanical,0,7,1,0,0
+2330,21,Female,"Information Technology",0,7,0,0,0
+2331,19,Male,"Computer Science",0,6,0,1,0
+2332,25,Male,"Computer Science",0,6,0,0,1
+2333,20,Male,Electrical,1,7,0,0,1
+2334,21,Female,"Electronics And Communication",0,7,0,0,0
+2335,25,Male,"Computer Science",0,7,0,0,0
+2336,21,Male,Mechanical,3,6,1,0,1
+2337,22,Male,"Information Technology",0,7,0,1,0
+2338,26,Male,Mechanical,1,6,0,0,1
+2339,20,Male,"Computer Science",0,7,0,0,0
+2340,21,Male,"Computer Science",0,7,0,1,0
+2341,26,Male,"Computer Science",1,7,0,0,0
+2342,21,Female,"Electronics And Communication",1,8,0,0,1
+2343,26,Male,"Computer Science",0,6,0,1,1
+2344,22,Male,"Computer Science",2,6,0,0,1
+2345,26,Male,"Electronics And Communication",1,7,1,1,0
+2346,25,Female,"Computer Science",0,7,1,0,0
+2347,21,Male,"Electronics And Communication",1,7,0,1,1
+2348,25,Male,"Computer Science",2,6,0,0,1
+2349,21,Male,Mechanical,0,7,0,0,0
+2350,21,Female,"Electronics And Communication",1,8,0,0,1
+2351,20,Male,"Information Technology",0,7,0,1,0
+2352,20,Male,Civil,1,8,0,0,1
+2353,21,Male,Mechanical,0,8,1,0,1
+2354,25,Male,Mechanical,0,7,1,0,0
+2355,21,Male,"Electronics And Communication",0,7,0,0,1
+2356,21,Female,Electrical,1,7,0,0,1
+2357,26,Male,Civil,0,7,0,0,0
+2358,20,Male,Electrical,2,7,0,0,1
+2359,25,Female,"Computer Science",1,7,1,0,1
+2360,21,Male,Civil,0,8,1,0,1
+2361,26,Male,"Information Technology",1,6,0,0,1
+2362,21,Male,Mechanical,0,8,1,0,1
+2363,20,Male,Civil,0,6,1,1,0
+2364,26,Female,"Computer Science",0,7,1,0,1
+2365,21,Male,Electrical,0,7,0,0,0
+2366,21,Male,"Information Technology",2,6,0,0,1
+2367,20,Male,"Information Technology",0,8,0,1,1
+2368,20,Male,"Information Technology",0,7,0,0,0
+2369,21,Male,"Computer Science",0,7,0,0,0
+2370,26,Female,"Information Technology",0,7,0,0,1
+2371,20,Female,"Computer Science",2,6,1,0,1
+2372,26,Male,"Computer Science",1,6,0,0,1
+2373,21,Male,"Computer Science",1,6,0,0,0
+2374,26,Female,"Information Technology",0,7,0,0,0
+2375,21,Female,Electrical,0,8,0,0,1
+2376,24,Male,"Information Technology",1,7,0,0,0
+2377,20,Male,"Electronics And Communication",0,6,0,0,0
+2378,21,Male,"Computer Science",0,7,0,0,0
+2379,24,Male,Civil,0,6,0,0,1
+2380,20,Male,"Information Technology",0,6,0,0,0
+2381,21,Male,Civil,0,7,0,0,0
+2382,25,Male,"Electronics And Communication",1,6,0,0,1
+2383,20,Male,Mechanical,1,6,1,0,0
+2384,20,Male,Civil,2,7,0,0,0
+2385,26,Male,Mechanical,0,7,1,0,0
+2386,21,Male,"Electronics And Communication",0,7,0,0,0
+2387,20,Female,"Information Technology",0,6,0,0,0
+2388,26,Male,Mechanical,1,6,1,1,1
+2389,20,Male,Mechanical,3,8,1,0,1
+2390,21,Male,"Electronics And Communication",1,6,1,1,0
+2391,20,Male,Mechanical,0,7,1,0,0
+2392,20,Male,"Information Technology",0,8,0,0,1
+2393,21,Male,Civil,1,6,0,0,0
+2394,25,Male,"Computer Science",1,7,0,0,1
+2395,20,Male,"Information Technology",1,8,0,0,1
+2396,26,Male,"Computer Science",1,7,0,0,1
+2397,21,Male,"Computer Science",1,6,0,0,0
+2398,25,Male,"Computer Science",2,7,0,1,1
+2399,21,Male,"Computer Science",1,7,1,0,0
+2400,25,Male,"Computer Science",2,7,0,1,1
+2401,20,Male,"Computer Science",1,8,0,0,1
+2402,21,Male,"Computer Science",1,8,0,0,1
+2403,24,Male,"Computer Science",0,6,0,0,1
+2404,21,Male,Civil,0,8,0,1,1
+2405,20,Male,Mechanical,1,8,1,0,1
+2406,26,Male,Electrical,0,6,0,0,1
+2407,20,Male,"Information Technology",0,8,0,1,1
+2408,24,Male,"Information Technology",0,7,0,0,1
+2409,20,Male,"Computer Science",0,6,0,1,0
+2410,26,Male,"Computer Science",1,7,0,0,1
+2411,21,Male,Mechanical,1,8,1,0,1
+2412,26,Male,Mechanical,1,7,1,1,0
+2413,20,Male,Civil,0,8,0,0,1
+2414,24,Male,"Computer Science",1,7,0,0,1
+2415,20,Female,"Electronics And Communication",0,6,0,0,0
+2416,26,Female,"Information Technology",0,6,0,0,1
+2417,21,Male,Electrical,0,8,0,0,1
+2418,25,Female,"Computer Science",0,6,1,1,1
+2419,21,Male,Mechanical,0,6,1,0,0
+2420,20,Male,"Electronics And Communication",0,7,0,0,1
+2421,25,Male,Mechanical,1,6,1,0,1
+2422,21,Female,"Computer Science",1,6,1,0,0
+2423,20,Male,Civil,1,9,0,0,1
+2424,26,Male,"Computer Science",1,6,0,0,1
+2425,20,Male,"Information Technology",0,6,0,0,0
+2426,20,Male,"Information Technology",1,7,0,1,0
+2427,21,Male,Civil,1,8,0,0,1
+2428,21,Male,"Computer Science",1,9,0,0,1
+2429,25,Female,"Electronics And Communication",0,6,0,0,1
+2430,20,Male,Mechanical,1,8,1,0,1
+2431,20,Male,"Information Technology",0,7,0,0,0
+2432,22,Male,Civil,1,6,0,0,0
+2433,21,Female,Electrical,1,8,0,0,1
+2434,20,Male,"Information Technology",1,7,1,0,0
+2435,21,Female,Electrical,0,6,0,0,0
+2436,21,Male,Civil,0,7,0,0,0
+2437,20,Female,"Computer Science",2,8,1,0,1
+2438,22,Male,"Computer Science",1,7,0,0,0
+2439,21,Male,Mechanical,0,7,1,0,0
+2440,21,Male,Mechanical,0,6,1,0,0
+2441,21,Male,"Electronics And Communication",0,7,0,0,1
+2442,21,Female,"Information Technology",0,7,0,0,0
+2443,20,Male,"Computer Science",1,8,0,0,1
+2444,22,Male,"Computer Science",1,7,0,0,0
+2445,21,Female,"Information Technology",1,8,1,0,1
+2446,20,Male,Electrical,1,7,1,1,1
+2447,21,Female,"Information Technology",1,7,0,1,0
+2448,20,Female,"Information Technology",1,8,1,0,1
+2449,20,Male,"Electronics And Communication",0,8,0,0,1
+2450,22,Male,Electrical,0,6,0,0,0
+2451,20,Male,Mechanical,0,7,1,0,0
+2452,20,Female,"Information Technology",2,8,0,0,1
+2453,20,Male,"Information Technology",2,6,0,0,1
+2454,20,Male,"Computer Science",0,8,0,0,1
+2455,21,Male,"Computer Science",1,7,0,0,0
+2456,20,Male,Mechanical,0,8,1,0,1
+2457,21,Female,Mechanical,1,6,1,0,0
+2458,20,Male,Mechanical,0,8,1,0,1
+2459,21,Male,"Computer Science",2,6,0,0,1
+2460,20,Male,"Computer Science",0,6,0,0,0
+2461,21,Male,"Information Technology",0,7,0,0,0
+2462,20,Male,"Information Technology",1,7,0,0,0
+2463,21,Male,"Computer Science",1,6,0,0,0
+2464,22,Male,"Information Technology",0,7,0,0,0
+2465,20,Male,Civil,0,6,1,0,0
+2466,20,Male,"Computer Science",1,6,0,0,0
+2467,21,Male,"Information Technology",0,7,0,1,0
+2468,21,Male,Mechanical,0,7,1,1,0
+2469,21,Female,"Information Technology",1,7,0,0,0
+2470,21,Male,Mechanical,0,6,1,0,0
+2471,21,Male,"Computer Science",2,7,0,1,0
+2472,22,Male,"Electronics And Communication",1,7,0,0,0
+2473,20,Male,"Computer Science",1,6,0,0,0
+2474,20,Male,"Information Technology",0,7,0,1,0
+2475,22,Male,"Electronics And Communication",1,6,0,1,0
+2476,20,Male,"Information Technology",0,8,0,1,1
+2477,20,Male,Civil,0,7,1,0,0
+2478,21,Male,Electrical,1,7,0,0,1
+2479,21,Male,"Electronics And Communication",1,6,1,1,0
+2480,21,Male,"Electronics And Communication",0,7,0,0,1
+2481,22,Male,"Information Technology",1,6,1,0,0
+2482,20,Male,"Electronics And Communication",0,7,0,0,0
+2483,21,Female,"Information Technology",1,8,1,0,1
+2484,21,Male,"Computer Science",1,6,0,0,0
+2485,21,Female,"Information Technology",2,8,0,0,1
+2486,21,Male,"Information Technology",1,6,1,0,0
+2487,21,Male,Mechanical,0,6,1,0,0
+2488,21,Male,Electrical,0,6,0,1,0
+2489,21,Male,"Information Technology",0,7,0,1,0
+2490,21,Female,"Computer Science",1,8,1,0,1
+2491,21,Female,"Computer Science",2,8,0,0,1
+2492,20,Female,"Information Technology",0,7,0,0,0
+2493,20,Female,"Information Technology",1,7,0,1,0
+2494,21,Male,Mechanical,1,7,1,0,0
+2495,22,Male,"Information Technology",0,6,0,0,0
+2496,20,Male,"Electronics And Communication",1,7,1,1,0
+2497,21,Male,Civil,0,8,0,0,1
+2498,21,Male,"Electronics And Communication",0,7,0,0,1
+2499,20,Female,"Electronics And Communication",0,8,0,0,1
+2500,21,Male,"Information Technology",0,7,0,0,0
+2501,20,Male,"Information Technology",1,7,0,0,0
+2502,20,Male,"Information Technology",1,7,0,1,0
+2503,21,Male,Civil,0,8,0,0,1
+2504,21,Male,Mechanical,0,6,0,1,0
+2505,21,Male,Electrical,0,7,0,0,0
+2506,21,Male,Electrical,2,6,0,1,0
+2507,20,Male,Electrical,1,7,0,1,1
+2508,21,Male,Electrical,0,7,0,0,0
+2509,20,Male,"Computer Science",1,7,0,0,0
+2510,20,Male,"Computer Science",1,7,1,0,0
+2511,20,Male,Electrical,0,8,0,0,1
+2512,20,Female,"Computer Science",0,7,1,0,0
+2513,21,Female,"Computer Science",1,8,1,0,1
+2514,20,Male,"Computer Science",1,8,0,0,1
+2515,21,Male,Electrical,0,8,0,0,1
+2516,20,Male,Civil,0,7,0,1,0
+2517,22,Female,Electrical,1,6,1,1,0
+2518,21,Male,Mechanical,1,7,0,0,0
+2519,20,Male,Civil,2,9,0,0,1
+2520,21,Male,"Computer Science",1,7,0,0,0
+2521,21,Male,Electrical,0,8,0,0,1
+2522,21,Female,"Computer Science",1,9,1,0,1
+2523,21,Female,"Information Technology",0,7,0,0,0
+2524,20,Female,Electrical,0,8,0,0,1
+2525,20,Male,Electrical,0,9,1,0,1
+2526,20,Male,"Information Technology",0,6,0,0,0
+2527,20,Male,Civil,2,9,0,0,1
+2528,20,Male,"Information Technology",0,6,0,0,0
+2529,20,Male,"Information Technology",0,8,0,0,1
+2530,20,Male,"Electronics And Communication",2,8,0,0,1
+2531,21,Male,"Electronics And Communication",1,6,0,1,0
+2532,20,Male,Mechanical,0,6,1,1,0
+2533,21,Male,"Information Technology",0,8,0,0,1
+2534,22,Female,"Information Technology",3,7,1,1,0
+2535,21,Male,Electrical,1,8,0,0,1
+2536,21,Male,"Computer Science",1,8,0,0,1
+2537,21,Female,"Computer Science",1,6,1,0,0
+2538,20,Male,"Computer Science",0,6,0,0,0
+2539,21,Male,"Information Technology",1,8,0,0,1
+2540,21,Male,Mechanical,0,7,1,0,0
+2541,20,Female,"Information Technology",1,7,0,0,0
+2542,20,Male,"Electronics And Communication",0,7,0,0,1
+2543,21,Male,"Computer Science",1,8,0,0,1
+2544,21,Male,"Electronics And Communication",0,8,0,0,1
+2545,20,Male,"Computer Science",1,9,0,0,1
+2546,22,Female,"Information Technology",0,8,0,0,1
+2547,21,Female,"Electronics And Communication",1,8,0,0,1
+2548,20,Male,Electrical,3,7,0,0,1
+2549,22,Female,"Information Technology",1,8,0,0,1
+2550,20,Female,"Computer Science",0,6,1,0,0
+2551,21,Male,Civil,1,8,0,0,1
+2552,21,Male,"Electronics And Communication",1,7,0,1,0
+2553,21,Male,"Computer Science",0,7,0,0,0
+2554,21,Male,Mechanical,0,7,1,1,0
+2555,21,Male,"Information Technology",1,6,0,0,0
+2556,20,Male,"Computer Science",0,7,0,1,0
+2557,21,Male,"Electronics And Communication",2,7,1,1,1
+2558,21,Female,"Information Technology",1,8,0,0,1
+2559,20,Male,"Electronics And Communication",0,6,0,0,0
+2560,21,Female,"Computer Science",1,7,1,0,0
+2561,22,Male,Mechanical,0,8,1,0,1
+2562,21,Male,"Computer Science",2,8,0,0,1
+2563,22,Male,Mechanical,0,7,1,1,0
+2564,21,Male,"Computer Science",0,8,0,0,1
+2565,22,Male,"Information Technology",2,8,0,0,1
+2566,20,Female,Electrical,0,6,0,0,0
+2567,21,Male,Civil,0,7,0,0,0
+2568,22,Female,"Computer Science",0,6,1,1,0
+2569,20,Male,"Computer Science",0,7,0,0,0
+2570,21,Male,"Computer Science",0,8,0,0,1
+2571,21,Male,"Information Technology",2,6,0,0,1
+2572,20,Male,Civil,1,6,0,0,0
+2573,22,Male,Electrical,0,8,0,1,1
+2574,21,Female,"Computer Science",1,8,1,0,1
+2575,22,Male,Civil,1,7,0,0,0
+2576,21,Male,Electrical,1,6,0,0,0
+2577,22,Female,Civil,1,6,0,1,0
+2578,21,Male,"Information Technology",1,9,1,0,1
+2579,20,Male,"Computer Science",1,6,0,0,0
+2580,22,Male,"Information Technology",3,8,0,0,1
+2581,21,Male,"Information Technology",0,7,0,0,0
+2582,21,Male,Electrical,1,8,0,1,1
+2583,20,Female,"Computer Science",0,7,1,0,0
+2584,20,Male,"Electronics And Communication",0,6,0,0,0
+2585,21,Male,"Information Technology",1,7,0,0,0
+2586,20,Male,Mechanical,1,6,0,1,0
+2587,21,Male,"Electronics And Communication",1,7,0,0,0
+2588,21,Male,"Computer Science",1,8,0,0,1
+2589,21,Female,"Computer Science",2,6,1,0,1
+2590,22,Male,Mechanical,0,6,1,0,0
+2591,20,Male,Electrical,0,9,0,1,1
+2592,20,Male,"Electronics And Communication",1,6,0,1,0
+2593,22,Male,Civil,0,8,1,1,1
+2594,21,Male,Electrical,1,9,0,0,1
+2595,22,Male,Civil,0,7,0,1,0
+2596,20,Male,"Computer Science",1,9,0,0,1
+2597,21,Female,"Computer Science",0,8,1,1,1
+2598,21,Male,Mechanical,1,9,1,0,1
+2599,22,Male,"Information Technology",1,6,0,0,0
+2600,20,Female,"Electronics And Communication",0,7,0,0,1
+2601,21,Female,"Computer Science",1,8,1,0,1
+2602,22,Male,Mechanical,0,6,1,0,0
+2603,20,Male,"Information Technology",1,8,0,1,1
+2604,21,Male,"Electronics And Communication",1,9,0,1,1
+2605,21,Male,"Computer Science",2,6,0,0,1
+2606,20,Male,Mechanical,0,8,1,0,1
+2607,20,Female,Mechanical,1,8,1,0,1
+2608,22,Male,"Information Technology",0,8,0,1,1
+2609,20,Female,"Information Technology",0,8,0,0,1
+2610,21,Male,"Computer Science",1,8,0,0,1
+2611,22,Male,Civil,0,6,0,0,0
+2612,20,Male,Civil,1,8,0,0,1
+2613,20,Female,"Information Technology",0,8,0,0,1
+2614,22,Female,Mechanical,1,8,1,0,1
+2615,20,Male,Electrical,0,8,0,0,1
+2616,21,Male,Civil,2,7,1,1,0
+2617,20,Male,Civil,1,8,0,0,1
+2618,21,Male,Mechanical,0,7,1,0,0
+2619,21,Male,"Information Technology",0,6,0,1,0
+2620,23,Male,"Electronics And Communication",0,8,0,0,1
+2621,21,Male,Mechanical,0,6,1,1,0
+2622,22,Male,Mechanical,0,7,1,0,0
+2623,20,Male,Civil,1,9,0,0,1
+2624,22,Male,"Information Technology",0,7,0,1,0
+2625,22,Male,"Electronics And Communication",0,6,0,1,0
+2626,21,Female,"Electronics And Communication",0,9,0,0,1
+2627,22,Female,"Information Technology",1,6,1,0,0
+2628,21,Female,"Information Technology",0,8,0,0,1
+2629,21,Male,"Computer Science",1,7,0,0,0
+2630,21,Male,Mechanical,0,7,1,0,0
+2631,21,Male,"Computer Science",1,8,0,0,1
+2632,21,Male,Electrical,0,9,0,0,1
+2633,23,Male,"Computer Science",0,6,0,0,0
+2634,20,Male,Electrical,1,8,0,0,1
+2635,23,Male,Mechanical,1,6,1,0,0
+2636,21,Female,"Computer Science",2,9,1,1,1
+2637,23,Male,"Computer Science",1,8,0,0,1
+2638,21,Male,"Computer Science",1,7,0,0,0
+2639,20,Female,"Information Technology",0,7,0,0,0
+2640,22,Male,"Electronics And Communication",1,8,0,0,1
+2641,23,Male,Mechanical,0,7,1,0,0
+2642,21,Male,Mechanical,1,9,1,1,1
+2643,21,Male,"Computer Science",2,6,0,0,1
+2644,21,Male,Civil,0,9,1,0,1
+2645,23,Male,Electrical,0,7,0,1,0
+2646,21,Male,"Information Technology",2,8,0,0,1
+2647,23,Male,"Computer Science",1,7,0,0,0
+2648,22,Male,"Electronics And Communication",1,7,0,0,0
+2649,20,Male,"Electronics And Communication",1,7,0,1,1
+2650,23,Male,Electrical,0,6,1,0,0
+2651,22,Male,"Computer Science",1,8,0,0,1
+2652,20,Male,"Computer Science",1,7,0,0,0
+2653,21,Male,"Information Technology",1,8,1,1,1
+2654,22,Male,"Computer Science",1,7,0,0,0
+2655,21,Male,"Information Technology",0,7,0,0,0
+2656,23,Male,Civil,0,7,0,0,0
+2657,21,Male,"Electronics And Communication",0,8,0,1,1
+2658,20,Male,Mechanical,0,9,1,0,1
+2659,23,Male,"Information Technology",1,6,0,1,0
+2660,22,Male,Mechanical,0,8,1,0,1
+2661,21,Male,"Electronics And Communication",0,9,0,1,1
+2662,21,Male,"Computer Science",0,7,0,1,0
+2663,21,Male,"Electronics And Communication",0,8,0,0,1
+2664,22,Male,"Electronics And Communication",0,7,0,0,0
+2665,20,Male,Civil,0,9,1,1,1
+2666,22,Female,"Electronics And Communication",3,6,0,0,1
+2667,20,Male,Electrical,1,8,0,1,1
+2668,21,Male,"Computer Science",1,7,0,0,0
+2669,21,Male,Electrical,0,8,0,0,1
+2670,20,Male,"Information Technology",0,8,0,0,1
+2671,22,Male,Mechanical,0,6,1,0,0
+2672,21,Female,"Electronics And Communication",2,7,0,0,1
+2673,21,Female,"Electronics And Communication",3,9,0,0,1
+2674,21,Male,"Computer Science",1,7,0,0,0
+2675,20,Male,"Information Technology",1,7,0,0,0
+2676,21,Male,Mechanical,0,7,1,1,0
+2677,20,Male,"Computer Science",1,7,0,0,0
+2678,21,Male,Civil,1,8,0,0,1
+2679,21,Male,Electrical,1,9,0,0,1
+2680,22,Male,Civil,1,7,0,1,0
+2681,20,Male,"Electronics And Communication",3,8,1,1,1
+2682,21,Male,Electrical,0,7,0,0,0
+2683,20,Female,"Electronics And Communication",0,8,0,0,1
+2684,21,Male,Civil,0,6,0,0,0
+2685,21,Male,Electrical,0,6,0,0,0
+2686,22,Female,"Information Technology",0,7,0,1,0
+2687,22,Male,"Computer Science",2,7,0,0,0
+2688,21,Male,Mechanical,1,8,1,0,1
+2689,22,Male,"Information Technology",1,8,1,0,1
+2690,23,Male,Mechanical,0,6,1,0,0
+2691,21,Male,"Electronics And Communication",0,7,0,0,0
+2692,23,Male,"Electronics And Communication",1,6,1,1,0
+2693,20,Male,Electrical,0,9,0,1,1
+2694,22,Male,"Computer Science",0,6,0,0,0
+2695,22,Male,"Electronics And Communication",2,8,0,0,1
+2696,21,Male,Civil,3,9,0,0,1
+2697,21,Male,Civil,2,8,0,0,1
+2698,22,Male,"Electronics And Communication",3,8,0,1,1
+2699,20,Male,"Computer Science",1,8,0,0,1
+2700,23,Male,"Electronics And Communication",1,7,0,0,1
+2701,20,Male,Mechanical,0,9,1,1,1
+2702,22,Male,"Information Technology",1,8,0,0,1
+2703,20,Male,"Computer Science",1,8,0,0,1
+2704,21,Male,"Information Technology",1,6,0,0,0
+2705,23,Female,"Computer Science",1,6,1,0,0
+2706,20,Male,"Electronics And Communication",1,9,1,1,1
+2707,21,Female,"Information Technology",0,6,0,0,0
+2708,21,Male,"Information Technology",0,6,0,1,0
+2709,21,Male,"Information Technology",2,9,0,0,1
+2710,21,Male,"Information Technology",0,7,0,1,0
+2711,20,Male,Electrical,1,7,0,1,1
+2712,23,Male,"Electronics And Communication",0,6,0,1,0
+2713,21,Male,Electrical,0,9,0,0,1
+2714,22,Male,"Information Technology",1,6,0,0,0
+2715,21,Male,Mechanical,0,8,1,0,1
+2716,23,Male,"Information Technology",1,6,0,0,0
+2717,22,Female,"Computer Science",1,6,1,0,0
+2718,23,Male,"Information Technology",0,7,0,1,0
+2719,21,Male,Electrical,1,7,0,0,1
+2720,20,Male,Civil,0,9,0,0,1
+2721,23,Male,"Electronics And Communication",1,7,0,1,1
+2722,28,Female,"Computer Science",3,8,1,0,1
+2723,21,Female,"Computer Science",0,7,1,0,0
+2724,23,Male,Mechanical,0,6,1,0,0
+2725,20,Female,Electrical,1,7,0,0,1
+2726,21,Male,"Information Technology",0,6,0,1,0
+2727,20,Male,"Information Technology",1,8,1,0,1
+2728,21,Male,"Computer Science",0,7,0,1,0
+2729,21,Male,"Computer Science",1,7,0,0,0
+2730,21,Female,"Electronics And Communication",0,7,0,0,1
+2731,22,Male,"Information Technology",0,7,0,1,0
+2732,22,Male,"Information Technology",0,7,0,0,0
+2733,21,Male,Electrical,0,8,0,0,1
+2734,23,Male,"Information Technology",0,8,0,0,1
+2735,21,Male,"Information Technology",0,8,0,0,1
+2736,21,Female,"Computer Science",0,6,1,0,0
+2737,22,Male,Mechanical,1,6,1,1,0
+2738,22,Female,"Electronics And Communication",0,8,0,0,1
+2739,21,Male,Mechanical,0,7,1,0,0
+2740,22,Male,"Computer Science",1,6,0,0,0
+2741,22,Male,Mechanical,0,7,1,0,0
+2742,21,Male,Electrical,0,8,0,0,1
+2743,21,Male,Mechanical,0,8,1,0,1
+2744,21,Male,"Information Technology",2,8,0,0,1
+2745,20,Male,Electrical,0,9,0,1,1
+2746,21,Male,"Computer Science",1,7,0,0,0
+2747,22,Male,"Computer Science",0,8,0,1,1
+2748,21,Male,"Electronics And Communication",1,7,0,0,1
+2749,23,Male,"Electronics And Communication",1,8,1,1,1
+2750,22,Female,Electrical,1,8,0,0,1
+2751,20,Male,"Electronics And Communication",2,7,0,0,1
+2752,21,Male,"Information Technology",0,7,0,1,0
+2753,22,Female,"Computer Science",0,6,1,0,0
+2754,21,Male,"Computer Science",2,8,0,0,1
+2755,22,Male,Mechanical,0,7,1,0,0
+2756,20,Male,Civil,0,9,0,0,1
+2757,22,Male,Mechanical,1,8,1,1,1
+2758,20,Male,"Computer Science",1,8,0,0,1
+2759,21,Male,Electrical,0,7,0,0,0
+2760,21,Male,"Computer Science",1,6,0,0,0
+2761,21,Male,Electrical,0,9,0,0,1
+2762,23,Female,Mechanical,1,7,0,0,0
+2763,22,Male,"Electronics And Communication",0,6,0,0,0
+2764,21,Male,"Electronics And Communication",0,7,0,0,1
+2765,21,Female,"Information Technology",0,7,0,0,0
+2766,21,Male,"Electronics And Communication",1,6,0,0,0
+2767,20,Male,"Information Technology",0,8,0,0,1
+2768,21,Male,"Computer Science",0,7,0,0,0
+2769,21,Female,"Computer Science",0,8,1,0,1
+2770,21,Male,Electrical,0,7,1,0,0
+2771,22,Male,Mechanical,0,6,1,0,0
+2772,20,Male,"Electronics And Communication",2,7,0,0,1
+2773,23,Male,Civil,1,8,0,0,1
+2774,22,Male,"Computer Science",1,8,0,0,1
+2775,21,Male,"Information Technology",1,8,1,0,1
+2776,23,Male,"Computer Science",1,8,0,0,1
+2777,21,Male,Civil,0,8,1,0,1
+2778,21,Male,"Computer Science",1,7,0,0,0
+2779,22,Male,"Information Technology",1,6,0,1,0
+2780,22,Male,"Computer Science",1,8,0,0,1
+2781,20,Male,Civil,1,7,1,0,0
+2782,22,Male,"Computer Science",1,7,0,0,0
+2783,22,Male,"Information Technology",0,7,0,0,0
+2784,21,Female,"Electronics And Communication",2,8,0,0,1
+2785,21,Female,"Information Technology",1,8,1,0,1
+2786,22,Male,Mechanical,1,7,1,1,0
+2787,23,Male,"Information Technology",3,8,1,0,1
+2788,21,Male,"Information Technology",1,8,0,1,1
+2789,22,Male,"Computer Science",0,8,0,0,1
+2790,20,Male,"Computer Science",2,7,0,0,1
+2791,21,Male,"Information Technology",1,6,0,0,0
+2792,20,Male,"Information Technology",0,9,0,0,1
+2793,22,Male,"Information Technology",2,8,0,0,1
+2794,21,Male,"Information Technology",1,8,0,0,1
+2795,22,Male,Mechanical,0,6,1,0,0
+2796,21,Male,Electrical,0,6,0,0,0
+2797,22,Male,"Information Technology",0,6,0,0,0
+2798,20,Male,"Information Technology",2,8,0,0,1
+2799,22,Male,Civil,0,8,1,0,1
+2800,22,Male,"Information Technology",1,7,0,0,0
+2801,20,Male,"Electronics And Communication",1,7,0,0,0
+2802,22,Male,"Information Technology",1,8,0,0,1
+2803,20,Male,"Information Technology",1,9,0,0,1
+2804,23,Male,"Electronics And Communication",0,6,0,0,0
+2805,20,Male,"Electronics And Communication",1,7,0,0,1
+2806,23,Male,Civil,2,8,0,0,1
+2807,21,Female,"Computer Science",1,9,1,0,1
+2808,20,Male,"Electronics And Communication",0,9,0,0,1
+2809,20,Male,"Computer Science",0,8,0,1,1
+2810,21,Male,Electrical,0,8,0,0,1
+2811,20,Male,Electrical,1,7,0,0,1
+2812,21,Male,"Electronics And Communication",0,8,0,0,1
+2813,20,Male,"Computer Science",0,9,0,1,1
+2814,21,Male,"Computer Science",0,7,0,1,0
+2815,21,Male,Mechanical,1,7,1,0,0
+2816,21,Male,Mechanical,0,8,1,0,1
+2817,20,Male,Mechanical,0,7,1,1,0
+2818,22,Male,"Electronics And Communication",0,7,0,0,0
+2819,23,Male,"Information Technology",1,7,0,0,0
+2820,21,Male,Electrical,0,7,0,0,0
+2821,22,Male,"Electronics And Communication",2,6,0,0,1
+2822,21,Male,"Information Technology",1,8,0,0,1
+2823,23,Male,Mechanical,0,6,1,0,0
+2824,23,Female,"Electronics And Communication",0,7,0,0,1
+2825,20,Male,Electrical,0,8,1,0,1
+2826,23,Male,"Electronics And Communication",0,8,0,0,1
+2827,21,Male,Electrical,0,7,0,0,0
+2828,21,Male,Mechanical,1,8,0,0,1
+2829,23,Male,"Information Technology",1,7,0,1,0
+2830,20,Male,"Information Technology",0,7,0,0,0
+2831,21,Male,"Computer Science",1,7,0,0,0
+2832,20,Male,"Information Technology",0,9,0,0,1
+2833,23,Male,"Information Technology",1,7,1,1,0
+2834,20,Female,"Computer Science",3,8,1,0,1
+2835,22,Male,"Computer Science",2,8,0,1,1
+2836,21,Male,Mechanical,0,9,1,0,1
+2837,21,Male,Electrical,0,7,0,0,0
+2838,21,Male,"Electronics And Communication",0,8,0,0,1
+2839,22,Male,Civil,0,8,0,0,1
+2840,23,Male,Mechanical,0,8,1,1,1
+2841,23,Female,"Computer Science",1,8,1,0,1
+2842,23,Female,"Computer Science",1,8,1,0,1
+2843,21,Male,"Computer Science",3,8,0,0,1
+2844,23,Male,Mechanical,0,8,1,0,1
+2845,21,Male,"Information Technology",1,7,0,0,0
+2846,22,Male,"Electronics And Communication",0,7,0,0,0
+2847,22,Male,"Information Technology",2,6,0,0,1
+2848,21,Male,Mechanical,0,7,1,1,0
+2849,23,Male,"Electronics And Communication",2,8,0,0,1
+2850,20,Female,Electrical,1,7,0,1,1
+2851,23,Male,"Computer Science",0,6,0,0,1
+2852,21,Male,"Computer Science",0,8,0,0,1
+2853,23,Male,"Computer Science",2,6,0,0,1
+2854,21,Female,"Information Technology",1,9,0,0,1
+2855,21,Male,"Computer Science",1,7,0,0,0
+2856,21,Female,"Information Technology",0,7,0,0,0
+2857,21,Male,"Computer Science",1,8,0,0,1
+2858,23,Female,"Computer Science",1,8,0,1,1
+2859,20,Male,Civil,0,9,0,1,1
+2860,21,Male,"Electronics And Communication",2,7,0,0,1
+2861,22,Male,"Information Technology",0,7,0,0,0
+2862,21,Male,"Electronics And Communication",0,8,0,1,1
+2863,22,Male,"Computer Science",0,8,0,0,1
+2864,22,Male,Electrical,1,6,0,1,0
+2865,23,Male,"Computer Science",0,6,0,1,0
+2866,21,Male,"Electronics And Communication",1,9,0,0,1
+2867,23,Male,"Information Technology",0,7,0,0,0
+2868,21,Female,"Information Technology",0,6,0,0,0
+2869,20,Male,"Electronics And Communication",1,8,1,1,1
+2870,23,Male,Mechanical,1,7,1,0,0
+2871,23,Male,"Information Technology",0,7,0,0,0
+2872,23,Male,"Information Technology",0,7,0,0,0
+2873,22,Male,"Computer Science",1,8,0,0,1
+2874,23,Male,Mechanical,1,7,1,0,0
+2875,21,Male,"Information Technology",0,8,0,0,1
+2876,22,Male,"Information Technology",1,7,0,0,0
+2877,21,Male,Mechanical,0,7,1,0,0
+2878,22,Male,"Computer Science",1,7,0,0,0
+2879,23,Male,"Information Technology",0,6,0,1,0
+2880,20,Male,"Computer Science",1,7,0,0,0
+2881,23,Male,Civil,0,8,0,0,1
+2882,23,Male,Civil,0,8,1,1,1
+2883,20,Male,"Electronics And Communication",1,8,0,1,1
+2884,22,Male,Mechanical,1,8,1,0,1
+2885,21,Male,"Information Technology",0,8,0,0,1
+2886,23,Male,"Information Technology",1,6,0,0,0
+2887,23,Male,"Information Technology",1,7,0,0,0
+2888,22,Male,Mechanical,0,8,1,0,1
+2889,21,Male,"Computer Science",0,7,0,0,0
+2890,21,Male,Civil,0,6,0,0,0
+2891,20,Male,Mechanical,0,7,1,0,0
+2892,21,Male,"Computer Science",1,6,0,0,0
+2893,21,Male,"Computer Science",2,7,0,1,0
+2894,22,Male,"Computer Science",0,7,0,1,0
+2895,20,Male,"Information Technology",0,9,0,0,1
+2896,21,Male,"Electronics And Communication",0,7,0,0,1
+2897,20,Female,"Computer Science",0,8,1,0,1
+2898,23,Female,"Computer Science",0,7,1,1,0
+2899,23,Male,"Electronics And Communication",0,8,0,0,1
+2900,22,Male,Electrical,2,8,0,1,1
+2901,23,Male,"Information Technology",1,8,1,0,1
+2902,21,Male,"Electronics And Communication",0,8,0,0,1
+2903,22,Male,"Electronics And Communication",2,7,0,0,0
+2904,21,Male,Mechanical,1,7,1,0,0
+2905,21,Male,"Electronics And Communication",0,7,0,0,1
+2906,23,Male,"Information Technology",1,8,0,0,1
+2907,21,Male,Electrical,1,7,0,0,1
+2908,21,Male,"Information Technology",1,7,1,0,0
+2909,22,Male,"Information Technology",0,9,0,0,1
+2910,23,Male,"Information Technology",1,6,1,0,0
+2911,22,Female,Mechanical,1,7,1,0,0
+2912,21,Male,Mechanical,3,6,1,0,1
+2913,22,Male,Civil,0,7,0,0,0
+2914,23,Male,"Information Technology",1,8,0,0,1
+2915,21,Female,"Electronics And Communication",1,8,0,0,1
+2916,22,Male,Electrical,0,6,0,0,0
+2917,22,Female,"Information Technology",0,9,0,0,1
+2918,23,Male,Mechanical,0,7,1,0,0
+2919,22,Male,Mechanical,0,9,1,0,1
+2920,21,Male,"Information Technology",0,8,0,0,1
+2921,21,Male,Electrical,0,8,0,0,1
+2922,22,Male,Mechanical,0,8,1,0,1
+2923,21,Female,"Computer Science",1,8,1,0,1
+2924,21,Male,"Computer Science",0,9,0,0,1
+2925,21,Male,Civil,0,8,0,0,1
+2926,21,Male,"Information Technology",1,7,1,0,0
+2927,22,Male,"Electronics And Communication",0,8,0,0,1
+2928,21,Male,Electrical,2,8,0,1,1
+2929,23,Male,"Information Technology",0,6,0,0,0
+2930,21,Male,"Computer Science",1,9,0,0,1
+2931,22,Male,Electrical,1,9,0,0,1
+2932,22,Male,"Information Technology",0,7,0,0,1
+2933,22,Female,"Information Technology",1,9,1,0,1
+2934,23,Male,"Computer Science",0,8,0,0,1
+2935,21,Male,Mechanical,1,8,1,0,1
+2936,22,Male,Electrical,1,6,0,1,0
+2937,22,Female,"Computer Science",0,8,1,0,1
+2938,21,Male,Mechanical,1,7,1,0,0
+2939,21,Male,Civil,0,7,0,0,0
+2940,23,Male,"Computer Science",0,7,0,0,0
+2941,21,Male,"Computer Science",0,7,0,1,0
+2942,21,Male,"Information Technology",0,8,0,0,1
+2943,22,Male,"Information Technology",0,7,0,1,0
+2944,22,Female,"Computer Science",1,8,1,0,1
+2945,21,Male,"Computer Science",0,9,0,0,1
+2946,22,Female,"Computer Science",0,6,1,0,0
+2947,21,Male,Mechanical,0,9,1,1,1
+2948,23,Female,"Computer Science",0,6,1,0,0
+2949,22,Male,Mechanical,2,9,0,0,1
+2950,21,Male,"Computer Science",2,8,0,0,1
+2951,21,Male,Civil,2,8,0,0,1
+2952,21,Male,Mechanical,0,6,1,0,0
+2953,21,Male,Electrical,0,8,0,0,1
+2954,21,Male,"Computer Science",1,7,0,0,0
+2955,21,Female,Electrical,1,8,1,1,1
+2956,23,Male,"Computer Science",1,8,0,0,1
+2957,22,Male,"Electronics And Communication",1,7,0,0,0
+2958,23,Male,Electrical,1,8,0,0,1
+2959,22,Female,"Electronics And Communication",1,8,1,1,1
+2960,21,Male,"Electronics And Communication",0,8,0,0,1
+2961,21,Male,"Computer Science",1,8,0,0,1
+2962,23,Male,"Information Technology",0,6,0,0,0
+2963,22,Male,"Computer Science",0,7,0,1,0
+2964,23,Male,Mechanical,0,6,0,0,0
+2965,22,Male,"Computer Science",0,9,0,0,1
+2966,21,Male,Electrical,0,8,0,0,1
